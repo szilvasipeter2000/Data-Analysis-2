@@ -1,0 +1,808 @@
+geo_name,geo_level,race_or_ethnicity,gender,veteran,number_of_loans,loan_amount,quartiles_number_of_loans,quartiles_loan_amount,percentile_number_of_loans,percentile_loan_amount,pct_black_alone
+Montana,state,Hispanic,Female Owned,Veteran,8,376256,Bottom 25% of geographies,26-50% of geographies,22,30,0.6
+Arizona,state,White,Male Owned,Non-Veteran,10472,947717925,26-50% of geographies,51-75% of geographies,48,60,4.5
+Montana,state,Hispanic,Female Owned,Non-Veteran,96,2776646,Bottom 25% of geographies,Bottom 25% of geographies,12,10,0.6
+Nebraska,state,Hispanic,Male Owned,Non-Veteran,606,23311905,26-50% of geographies,26-50% of geographies,40,26,4.8
+Louisiana,state,Asian,Male Owned,Veteran,13,403325,26-50% of geographies,26-50% of geographies,41,37,31.9
+Kansas,state,Black,Male Owned,Non-Veteran,646,16026141,26-50% of geographies,26-50% of geographies,32,30,5.6
+Connecticut,state,Hispanic,Male Owned,Non-Veteran,1583,76574338,51-75% of geographies,51-75% of geographies,64,62,10.8
+Idaho,state,Asian,Male Owned,Non-Veteran,164,7917678,Bottom 25% of geographies,Bottom 25% of geographies,12,10,0.7
+Michigan,state,White,Female Owned,Veteran,339,18504419,Top 25% of geographies,Top 25% of geographies,78,82,13.6
+Virginia,state,White,Female Owned,Non-Veteran,4622,237451041,26-50% of geographies,51-75% of geographies,42,54,19.0
+New Hampshire,state,Asian,Female Owned,Non-Veteran,79,3402503,Bottom 25% of geographies,Bottom 25% of geographies,12,14,1.6
+Utah,state,Black,Male Owned,Veteran,11,290775,Bottom 25% of geographies,Bottom 25% of geographies,14,6,1.2
+Idaho,state,Black,Male Owned,Veteran,9,429946,Bottom 25% of geographies,Bottom 25% of geographies,12,20,0.7
+Maryland,state,Black,Male Owned,Veteran,602,22407649,Top 25% of geographies,Top 25% of geographies,78,86,29.8
+District of Columbia,state,Asian,Male Owned,Veteran,5,109897,Bottom 25% of geographies,Bottom 25% of geographies,12,10,44.7
+Utah,state,Black,Female Owned,Veteran,3,106666,Bottom 25% of geographies,Bottom 25% of geographies,11,13,1.2
+South Dakota,state,White,Female Owned,Non-Veteran,2297,53583378,26-50% of geographies,Bottom 25% of geographies,26,8,2.2
+Louisiana,state,Asian,Female Owned,Non-Veteran,806,18880641,51-75% of geographies,26-50% of geographies,58,48,31.9
+Texas,state,White,Male Owned,Veteran,4768,375724685,Top 25% of geographies,Top 25% of geographies,98,98,12.1
+Minnesota,state,Hispanic,Male Owned,Veteran,59,4310985,51-75% of geographies,51-75% of geographies,53,53,6.6
+Iowa,state,Black,Female Owned,Veteran,10,114022,Bottom 25% of geographies,Bottom 25% of geographies,23,15,3.7
+Missouri,state,Black,Female Owned,Veteran,115,4054215,51-75% of geographies,51-75% of geographies,64,72,11.3
+Maine,state,Hispanic,Female Owned,Non-Veteran,43,1352033,Bottom 25% of geographies,Bottom 25% of geographies,2,0,1.4
+Michigan,state,White,Female Owned,Non-Veteran,9699,569032311,Top 25% of geographies,Top 25% of geographies,84,84,13.6
+South Dakota,state,Asian,Female Owned,Non-Veteran,39,1567516,Bottom 25% of geographies,Bottom 25% of geographies,0,2,2.2
+Wisconsin,state,Black,Male Owned,Veteran,95,3647055,26-50% of geographies,26-50% of geographies,43,45,6.3
+Wisconsin,state,Asian,Female Owned,Veteran,7,109559,26-50% of geographies,Bottom 25% of geographies,28,23,6.3
+Delaware,state,Black,Female Owned,Non-Veteran,1016,17794085,26-50% of geographies,26-50% of geographies,38,36,22.0
+Wisconsin,state,Black,Male Owned,Non-Veteran,2869,62058378,26-50% of geographies,26-50% of geographies,50,50,6.3
+Oklahoma,state,Hispanic,Female Owned,Non-Veteran,482,20980348,26-50% of geographies,51-75% of geographies,48,52,7.2
+Alaska,state,Asian,Male Owned,Non-Veteran,177,13918836,Bottom 25% of geographies,Bottom 25% of geographies,14,16,3.2
+Nevada,state,Asian,Female Owned,Non-Veteran,1025,43606066,51-75% of geographies,51-75% of geographies,64,68,9.3
+North Carolina,state,Hispanic,Female Owned,Veteran,43,1199425,51-75% of geographies,51-75% of geographies,72,68,21.2
+Wyoming,state,Hispanic,Male Owned,Non-Veteran,199,13718678,Bottom 25% of geographies,Bottom 25% of geographies,16,14,0.9
+Vermont,state,Asian,Male Owned,Non-Veteran,64,3957167,Bottom 25% of geographies,Bottom 25% of geographies,0,2,1.3
+South Dakota,state,Asian,Male Owned,Non-Veteran,80,4411949,Bottom 25% of geographies,Bottom 25% of geographies,2,4,2.2
+Iowa,state,White,Female Owned,Non-Veteran,8814,251772139,51-75% of geographies,51-75% of geographies,76,56,3.7
+Idaho,state,White,Male Owned,Non-Veteran,5062,328666466,Bottom 25% of geographies,Bottom 25% of geographies,22,18,0.7
+Kentucky,state,White,Male Owned,Non-Veteran,12239,655039513,51-75% of geographies,26-50% of geographies,56,38,8.0
+South Carolina,state,Asian,Male Owned,Non-Veteran,876,60560142,26-50% of geographies,51-75% of geographies,40,52,26.2
+New Mexico,state,White,Female Owned,Veteran,62,2470481,Bottom 25% of geographies,Bottom 25% of geographies,14,14,2.1
+Utah,state,Asian,Male Owned,Veteran,6,167484,Bottom 25% of geographies,Bottom 25% of geographies,16,24,1.2
+Kentucky,state,Asian,Female Owned,Veteran,1,4897,Bottom 25% of geographies,Bottom 25% of geographies,0,2,8.0
+New Hampshire,state,Black,Female Owned,Non-Veteran,28,768566,Bottom 25% of geographies,Bottom 25% of geographies,4,4,1.6
+Hawaii,state,Asian,Male Owned,Non-Veteran,3787,271023268,Top 25% of geographies,Top 25% of geographies,82,84,1.9
+Wyoming,state,White,Female Owned,Non-Veteran,979,36373212,Bottom 25% of geographies,Bottom 25% of geographies,8,0,0.9
+Rhode Island,state,White,Female Owned,Non-Veteran,1467,83543023,Bottom 25% of geographies,Bottom 25% of geographies,14,16,6.4
+Colorado,state,White,Female Owned,Veteran,347,18836837,Top 25% of geographies,Top 25% of geographies,82,84,4.1
+Florida,state,Black,Male Owned,Veteran,1480,52822990,Top 25% of geographies,Top 25% of geographies,94,94,15.7
+New Jersey,state,White,Male Owned,Veteran,1053,111311686,26-50% of geographies,51-75% of geographies,44,66,13.3
+Texas,state,White,Male Owned,Non-Veteran,40136,3501451407,Top 25% of geographies,Top 25% of geographies,94,94,12.1
+Alabama,state,Black,Male Owned,Non-Veteran,8465,164551387,Top 25% of geographies,51-75% of geographies,80,76,26.5
+New Mexico,state,Hispanic,Female Owned,Non-Veteran,1000,53130013,51-75% of geographies,Top 25% of geographies,68,78,2.1
+Wisconsin,state,White,Female Owned,Non-Veteran,8276,364739529,51-75% of geographies,51-75% of geographies,74,68,6.3
+Georgia,state,Asian,Female Owned,Non-Veteran,2898,96203979,Top 25% of geographies,Top 25% of geographies,88,82,31.5
+California,state,Black,Female Owned,Non-Veteran,23873,502761552,Top 25% of geographies,Top 25% of geographies,92,92,5.7
+Washington,state,Hispanic,Female Owned,Non-Veteran,1242,48768946,51-75% of geographies,51-75% of geographies,74,74,3.9
+South Carolina,state,White,Female Owned,Veteran,205,7272980,26-50% of geographies,26-50% of geographies,50,48,26.2
+California,state,White,Female Owned,Veteran,1430,115179243,Top 25% of geographies,Top 25% of geographies,100,100,5.7
+California,state,White,Male Owned,Veteran,6501,807686559,Top 25% of geographies,Top 25% of geographies,100,100,5.7
+Pennsylvania,state,Hispanic,Male Owned,Veteran,140,6918395,51-75% of geographies,51-75% of geographies,71,63,11.0
+Montana,state,White,Female Owned,Non-Veteran,2546,97370815,26-50% of geographies,Bottom 25% of geographies,30,22,0.6
+District of Columbia,state,Hispanic,Female Owned,Veteran,8,174936,Bottom 25% of geographies,Bottom 25% of geographies,22,20,44.7
+Colorado,state,White,Male Owned,Veteran,1640,129553987,51-75% of geographies,51-75% of geographies,74,74,4.1
+Massachusetts,state,Asian,Female Owned,Veteran,27,970689,Top 25% of geographies,Top 25% of geographies,81,77,7.3
+Michigan,state,Hispanic,Female Owned,Non-Veteran,922,32578420,51-75% of geographies,51-75% of geographies,62,62,13.6
+New York,state,Black,Female Owned,Veteran,118,2112100,51-75% of geographies,51-75% of geographies,66,57,15.2
+Ohio,state,Black,Female Owned,Veteran,300,7115882,Top 25% of geographies,Top 25% of geographies,81,85,12.3
+New Hampshire,state,Asian,Female Owned,Veteran,6,542173,Bottom 25% of geographies,51-75% of geographies,21,66,1.6
+New York,state,White,Female Owned,Non-Veteran,18008,1181150929,Top 25% of geographies,Top 25% of geographies,96,98,15.2
+Oregon,state,Hispanic,Female Owned,Veteran,20,1159571,26-50% of geographies,51-75% of geographies,48,66,1.9
+Mississippi,state,Black,Male Owned,Veteran,543,9499348,51-75% of geographies,51-75% of geographies,76,53,37.5
+Idaho,state,White,Female Owned,Veteran,129,4186863,26-50% of geographies,26-50% of geographies,32,32,0.7
+Illinois,state,Black,Male Owned,Veteran,1342,32748174,Top 25% of geographies,Top 25% of geographies,92,92,14.1
+Washington,state,Hispanic,Male Owned,Veteran,152,7430478,Top 25% of geographies,51-75% of geographies,78,67,3.9
+Nebraska,state,Black,Female Owned,Veteran,11,283704,26-50% of geographies,Bottom 25% of geographies,26,23,4.8
+Massachusetts,state,White,Male Owned,Non-Veteran,20451,2293739498,Top 25% of geographies,Top 25% of geographies,78,84,7.3
+West Virginia,state,Black,Female Owned,Non-Veteran,158,2848608,26-50% of geographies,Bottom 25% of geographies,26,22,3.4
+Washington,state,Hispanic,Female Owned,Veteran,41,4834682,51-75% of geographies,Top 25% of geographies,70,90,3.9
+South Dakota,state,White,Female Owned,Veteran,104,2869534,Bottom 25% of geographies,Bottom 25% of geographies,22,16,2.2
+Texas,state,Black,Male Owned,Veteran,2348,71506203,Top 25% of geographies,Top 25% of geographies,98,100,12.1
+Alaska,state,Asian,Male Owned,Veteran,9,472415,26-50% of geographies,26-50% of geographies,29,41,3.2
+Alaska,state,White,Male Owned,Veteran,242,13384243,Bottom 25% of geographies,Bottom 25% of geographies,10,2,3.2
+South Dakota,state,White,Male Owned,Non-Veteran,8940,361934781,26-50% of geographies,Bottom 25% of geographies,38,24,2.2
+Maine,state,Black,Female Owned,Non-Veteran,35,1415379,Bottom 25% of geographies,Bottom 25% of geographies,10,12,1.4
+Illinois,state,Asian,Female Owned,Non-Veteran,3006,109754414,Top 25% of geographies,Top 25% of geographies,92,88,14.1
+Nebraska,state,Asian,Male Owned,Veteran,10,260804,26-50% of geographies,26-50% of geographies,33,33,4.8
+Pennsylvania,state,Asian,Male Owned,Veteran,54,7839605,51-75% of geographies,Top 25% of geographies,67,88,11.0
+New Hampshire,state,White,Male Owned,Non-Veteran,3929,377353409,Bottom 25% of geographies,26-50% of geographies,18,28,1.6
+Alaska,state,Hispanic,Female Owned,Veteran,10,780421,26-50% of geographies,26-50% of geographies,28,48,3.2
+Connecticut,state,Asian,Female Owned,Veteran,7,130283,26-50% of geographies,26-50% of geographies,28,32,10.8
+West Virginia,state,Hispanic,Female Owned,Non-Veteran,43,2035072,Bottom 25% of geographies,Bottom 25% of geographies,2,6,3.4
+Washington,state,Asian,Male Owned,Non-Veteran,4555,311011809,Top 25% of geographies,Top 25% of geographies,86,88,3.9
+Virginia,state,White,Male Owned,Veteran,1303,128908267,51-75% of geographies,51-75% of geographies,54,72,19.0
+Virginia,state,Hispanic,Male Owned,Veteran,189,30424381,Top 25% of geographies,Top 25% of geographies,84,94,19.0
+Virginia,state,White,Male Owned,Non-Veteran,9486,758602968,26-50% of geographies,26-50% of geographies,42,48,19.0
+Missouri,state,White,Male Owned,Non-Veteran,23373,1316072163,Top 25% of geographies,51-75% of geographies,80,68,11.3
+Texas,state,White,Female Owned,Non-Veteran,18611,1014055918,Top 25% of geographies,Top 25% of geographies,98,94,12.1
+Washington,state,Black,Male Owned,Veteran,171,11071938,51-75% of geographies,51-75% of geographies,53,63,3.9
+Indiana,state,Asian,Male Owned,Veteran,25,1543012,51-75% of geographies,51-75% of geographies,53,57,9.4
+District of Columbia,state,Black,Male Owned,Non-Veteran,1813,60065028,26-50% of geographies,26-50% of geographies,46,48,44.7
+District of Columbia,state,Hispanic,Male Owned,Non-Veteran,296,28168220,Bottom 25% of geographies,26-50% of geographies,20,32,44.7
+Wisconsin,state,Black,Female Owned,Veteran,55,1335945,51-75% of geographies,51-75% of geographies,51,51,6.3
+District of Columbia,state,Asian,Female Owned,Veteran,2,81548,Bottom 25% of geographies,Bottom 25% of geographies,6,17,44.7
+Nebraska,state,Hispanic,Female Owned,Non-Veteran,278,6806167,26-50% of geographies,Bottom 25% of geographies,34,24,4.8
+Indiana,state,Hispanic,Female Owned,Veteran,22,891428,51-75% of geographies,51-75% of geographies,58,56,9.4
+Kentucky,state,White,Male Owned,Veteran,1202,51824960,51-75% of geographies,26-50% of geographies,52,36,8.0
+Mississippi,state,Asian,Female Owned,Veteran,11,226001,51-75% of geographies,26-50% of geographies,51,49,37.5
+Alaska,state,Hispanic,Male Owned,Non-Veteran,192,13575989,Bottom 25% of geographies,Bottom 25% of geographies,12,12,3.2
+Massachusetts,state,Asian,Male Owned,Non-Veteran,3316,202862348,51-75% of geographies,Top 25% of geographies,76,80,7.3
+Oklahoma,state,White,Female Owned,Non-Veteran,5794,177701415,51-75% of geographies,26-50% of geographies,54,46,7.2
+Florida,state,Hispanic,Female Owned,Veteran,384,18247295,Top 25% of geographies,Top 25% of geographies,96,98,15.7
+South Carolina,state,Hispanic,Male Owned,Veteran,62,1347281,51-75% of geographies,26-50% of geographies,55,27,26.2
+Florida,state,Asian,Male Owned,Non-Veteran,5369,311210217,Top 25% of geographies,Top 25% of geographies,88,90,15.7
+Kansas,state,White,Male Owned,Veteran,1554,64366457,51-75% of geographies,26-50% of geographies,68,46,5.6
+Wisconsin,state,Hispanic,Female Owned,Non-Veteran,654,21909244,51-75% of geographies,51-75% of geographies,54,54,6.3
+Delaware,state,Hispanic,Male Owned,Non-Veteran,251,14913291,Bottom 25% of geographies,Bottom 25% of geographies,18,18,22.0
+Indiana,state,White,Female Owned,Non-Veteran,6801,377219517,51-75% of geographies,51-75% of geographies,66,70,9.4
+Utah,state,White,Female Owned,Veteran,53,1691742,Bottom 25% of geographies,Bottom 25% of geographies,10,4,1.2
+Michigan,state,Hispanic,Male Owned,Veteran,82,7086586,51-75% of geographies,51-75% of geographies,61,65,13.6
+Maryland,state,Hispanic,Male Owned,Veteran,113,9625329,51-75% of geographies,51-75% of geographies,69,73,29.8
+West Virginia,state,Asian,Female Owned,Veteran,2,66535,Bottom 25% of geographies,Bottom 25% of geographies,6,11,3.4
+Rhode Island,state,Hispanic,Female Owned,Non-Veteran,302,9741751,26-50% of geographies,26-50% of geographies,36,30,6.4
+Nevada,state,Hispanic,Female Owned,Non-Veteran,1858,50054927,Top 25% of geographies,51-75% of geographies,80,76,9.3
+Delaware,state,Hispanic,Female Owned,Veteran,4,59994,Bottom 25% of geographies,Bottom 25% of geographies,6,6,22.0
+Minnesota,state,Hispanic,Female Owned,Veteran,16,2093783,26-50% of geographies,51-75% of geographies,44,76,6.6
+Wisconsin,state,White,Male Owned,Veteran,1765,112284610,Top 25% of geographies,51-75% of geographies,78,68,6.3
+Wyoming,state,Hispanic,Male Owned,Veteran,17,402551,Bottom 25% of geographies,Bottom 25% of geographies,16,12,0.9
+Ohio,state,Hispanic,Male Owned,Veteran,103,10640919,51-75% of geographies,51-75% of geographies,65,76,12.3
+Oregon,state,Asian,Female Owned,Veteran,22,600803,51-75% of geographies,51-75% of geographies,68,68,1.9
+New York,state,Hispanic,Male Owned,Non-Veteran,11848,527084700,Top 25% of geographies,Top 25% of geographies,94,94,15.2
+North Dakota,state,Asian,Female Owned,Non-Veteran,43,2084187,Bottom 25% of geographies,Bottom 25% of geographies,4,6,3.1
+Rhode Island,state,White,Female Owned,Veteran,66,4632789,Bottom 25% of geographies,26-50% of geographies,16,36,6.4
+Hawaii,state,Asian,Male Owned,Veteran,257,22566782,Top 25% of geographies,Top 25% of geographies,98,98,1.9
+Indiana,state,Hispanic,Male Owned,Non-Veteran,1021,46264492,51-75% of geographies,26-50% of geographies,58,48,9.4
+Arkansas,state,White,Female Owned,Non-Veteran,3439,109531867,26-50% of geographies,26-50% of geographies,34,30,15.2
+South Carolina,state,Asian,Female Owned,Non-Veteran,456,17428068,26-50% of geographies,26-50% of geographies,44,46,26.2
+New York,state,Hispanic,Female Owned,Veteran,97,3101266,Top 25% of geographies,Top 25% of geographies,90,82,15.2
+Maryland,state,Asian,Male Owned,Veteran,86,5847107,Top 25% of geographies,Top 25% of geographies,84,86,29.8
+Ohio,state,Asian,Female Owned,Veteran,14,272803,51-75% of geographies,51-75% of geographies,55,55,12.3
+North Carolina,state,Asian,Female Owned,Veteran,24,1740859,51-75% of geographies,Top 25% of geographies,72,85,21.2
+Arizona,state,Black,Male Owned,Non-Veteran,3368,74644795,51-75% of geographies,51-75% of geographies,56,54,4.5
+Connecticut,state,Hispanic,Female Owned,Veteran,21,781329,51-75% of geographies,26-50% of geographies,54,50,10.8
+Connecticut,state,Black,Male Owned,Veteran,57,1470772,26-50% of geographies,26-50% of geographies,33,27,10.8
+Maine,state,Black,Female Owned,Veteran,1,3500,Bottom 25% of geographies,Bottom 25% of geographies,0,2,1.4
+South Dakota,state,Black,Female Owned,Veteran,6,101171,Bottom 25% of geographies,Bottom 25% of geographies,19,11,2.2
+Pennsylvania,state,Black,Female Owned,Veteran,131,2956567,51-75% of geographies,51-75% of geographies,68,64,11.0
+Indiana,state,Black,Male Owned,Non-Veteran,6509,153331051,51-75% of geographies,51-75% of geographies,68,70,9.4
+Texas,state,Hispanic,Female Owned,Non-Veteran,16173,584670645,Top 25% of geographies,Top 25% of geographies,96,96,12.1
+Kansas,state,Asian,Female Owned,Non-Veteran,329,9809132,26-50% of geographies,26-50% of geographies,36,34,5.6
+Wyoming,state,Black,Male Owned,Veteran,6,305673,Bottom 25% of geographies,Bottom 25% of geographies,8,10,0.9
+Colorado,state,Black,Female Owned,Veteran,38,1044010,26-50% of geographies,26-50% of geographies,40,47,4.1
+Alaska,state,Asian,Female Owned,Veteran,7,114198,26-50% of geographies,26-50% of geographies,28,26,3.2
+Virginia,state,Black,Female Owned,Non-Veteran,4523,96833621,51-75% of geographies,51-75% of geographies,62,64,19.0
+Mississippi,state,Black,Male Owned,Non-Veteran,8292,160885197,Top 25% of geographies,51-75% of geographies,78,74,37.5
+Florida,state,White,Female Owned,Non-Veteran,17242,758588186,Top 25% of geographies,Top 25% of geographies,94,92,15.7
+Kentucky,state,Hispanic,Female Owned,Veteran,11,256980,26-50% of geographies,Bottom 25% of geographies,32,24,8.0
+Texas,state,Hispanic,Female Owned,Veteran,497,18037138,Top 25% of geographies,Top 25% of geographies,98,96,12.1
+Kansas,state,Asian,Male Owned,Veteran,7,137152,Bottom 25% of geographies,Bottom 25% of geographies,22,18,5.6
+Wisconsin,state,Asian,Male Owned,Veteran,14,303101,26-50% of geographies,26-50% of geographies,45,35,6.3
+Texas,state,Black,Female Owned,Veteran,1057,21248564,Top 25% of geographies,Top 25% of geographies,98,98,12.1
+Idaho,state,Asian,Female Owned,Veteran,1,1275,Bottom 25% of geographies,Bottom 25% of geographies,0,0,0.7
+New Jersey,state,Black,Male Owned,Non-Veteran,5066,131539898,51-75% of geographies,51-75% of geographies,66,64,13.3
+Massachusetts,state,Black,Male Owned,Veteran,77,2128087,26-50% of geographies,26-50% of geographies,37,41,7.3
+Illinois,state,Hispanic,Male Owned,Veteran,335,26558240,Top 25% of geographies,Top 25% of geographies,92,90,14.1
+Indiana,state,White,Male Owned,Non-Veteran,15720,1378154532,51-75% of geographies,51-75% of geographies,68,72,9.4
+Arkansas,state,Black,Female Owned,Non-Veteran,3450,52138532,51-75% of geographies,51-75% of geographies,54,52,15.2
+Florida,state,Black,Female Owned,Non-Veteran,27820,558198674,Top 25% of geographies,Top 25% of geographies,94,94,15.7
+Louisiana,state,Black,Male Owned,Non-Veteran,15061,296247289,Top 25% of geographies,Top 25% of geographies,88,86,31.9
+Massachusetts,state,Hispanic,Female Owned,Non-Veteran,1975,66401384,Top 25% of geographies,Top 25% of geographies,84,82,7.3
+Washington,state,Hispanic,Male Owned,Non-Veteran,1988,142642128,51-75% of geographies,Top 25% of geographies,74,78,3.9
+Louisiana,state,White,Female Owned,Non-Veteran,5282,200746795,51-75% of geographies,26-50% of geographies,52,48,31.9
+Iowa,state,Asian,Female Owned,Non-Veteran,359,10976134,26-50% of geographies,26-50% of geographies,38,40,3.7
+Arkansas,state,White,Female Owned,Veteran,142,2396834,26-50% of geographies,Bottom 25% of geographies,38,12,15.2
+Massachusetts,state,Asian,Male Owned,Veteran,56,2540575,51-75% of geographies,51-75% of geographies,73,63,7.3
+New Jersey,state,Asian,Male Owned,Veteran,90,4574727,Top 25% of geographies,Top 25% of geographies,86,82,13.3
+Massachusetts,state,Hispanic,Male Owned,Veteran,142,17205570,51-75% of geographies,Top 25% of geographies,73,86,7.3
+Maryland,state,White,Male Owned,Non-Veteran,7495,746173002,26-50% of geographies,26-50% of geographies,32,46,29.8
+South Carolina,state,Black,Female Owned,Non-Veteran,9383,147801614,51-75% of geographies,51-75% of geographies,76,68,26.2
+West Virginia,state,Asian,Male Owned,Non-Veteran,147,12566663,Bottom 25% of geographies,Bottom 25% of geographies,10,12,3.4
+Kentucky,state,Asian,Male Owned,Non-Veteran,638,39385975,26-50% of geographies,26-50% of geographies,36,36,8.0
+Montana,state,White,Female Owned,Veteran,116,3037589,26-50% of geographies,Bottom 25% of geographies,28,18,0.6
+Florida,state,White,Female Owned,Veteran,804,34147780,Top 25% of geographies,Top 25% of geographies,96,94,15.7
+Alabama,state,White,Male Owned,Veteran,956,70934033,26-50% of geographies,26-50% of geographies,40,50,26.5
+Wisconsin,state,White,Male Owned,Non-Veteran,18852,1449698380,51-75% of geographies,51-75% of geographies,76,76,6.3
+Pennsylvania,state,Black,Female Owned,Non-Veteran,7593,154309947,51-75% of geographies,51-75% of geographies,68,74,11.0
+Iowa,state,Hispanic,Female Owned,Non-Veteran,274,7268545,26-50% of geographies,26-50% of geographies,32,26,3.7
+South Dakota,state,Hispanic,Male Owned,Non-Veteran,119,3997027,Bottom 25% of geographies,Bottom 25% of geographies,8,4,2.2
+Vermont,state,Black,Female Owned,Veteran,1,301,Bottom 25% of geographies,Bottom 25% of geographies,0,0,1.3
+Wisconsin,state,White,Female Owned,Veteran,289,10383218,51-75% of geographies,51-75% of geographies,68,58,6.3
+Montana,state,Asian,Female Owned,Veteran,1,95000,Bottom 25% of geographies,Bottom 25% of geographies,0,19,0.6
+Tennessee,state,Asian,Female Owned,Veteran,6,208346,Bottom 25% of geographies,26-50% of geographies,21,45,16.5
+Arkansas,state,Hispanic,Female Owned,Non-Veteran,257,6088894,26-50% of geographies,Bottom 25% of geographies,26,18,15.2
+South Carolina,state,Hispanic,Female Owned,Non-Veteran,528,17252992,26-50% of geographies,26-50% of geographies,50,44,26.2
+Rhode Island,state,Asian,Female Owned,Non-Veteran,156,5233376,Bottom 25% of geographies,Bottom 25% of geographies,20,22,6.4
+Arizona,state,Asian,Female Owned,Non-Veteran,908,42482513,51-75% of geographies,51-75% of geographies,62,66,4.5
+Virginia,state,White,Female Owned,Veteran,330,16309248,51-75% of geographies,Top 25% of geographies,74,78,19.0
+New Hampshire,state,Asian,Male Owned,Veteran,3,30934,Bottom 25% of geographies,Bottom 25% of geographies,0,0,1.6
+Delaware,state,White,Male Owned,Veteran,188,17560843,Bottom 25% of geographies,Bottom 25% of geographies,2,10,22.0
+Arizona,state,White,Male Owned,Veteran,1325,103001878,51-75% of geographies,51-75% of geographies,56,62,4.5
+Delaware,state,Hispanic,Male Owned,Veteran,15,380338,Bottom 25% of geographies,Bottom 25% of geographies,14,10,22.0
+Kentucky,state,Hispanic,Female Owned,Non-Veteran,207,5928015,Bottom 25% of geographies,Bottom 25% of geographies,20,16,8.0
+California,state,Hispanic,Male Owned,Non-Veteran,31153,2538561352,Top 25% of geographies,Top 25% of geographies,98,100,5.7
+District of Columbia,state,White,Female Owned,Non-Veteran,536,46038718,Bottom 25% of geographies,Bottom 25% of geographies,0,4,44.7
+Maine,state,Black,Male Owned,Veteran,4,39803,Bottom 25% of geographies,Bottom 25% of geographies,6,4,1.4
+Vermont,state,White,Female Owned,Non-Veteran,1210,51286285,Bottom 25% of geographies,Bottom 25% of geographies,12,6,1.3
+Kentucky,state,Asian,Female Owned,Non-Veteran,253,9427410,26-50% of geographies,26-50% of geographies,30,32,8.0
+Oklahoma,state,White,Female Owned,Veteran,256,7638353,51-75% of geographies,26-50% of geographies,60,50,7.2
+New York,state,White,Male Owned,Veteran,2425,247100565,Top 25% of geographies,Top 25% of geographies,88,92,15.2
+New Hampshire,state,Hispanic,Male Owned,Veteran,19,1520410,Bottom 25% of geographies,26-50% of geographies,20,31,1.6
+District of Columbia,state,Hispanic,Female Owned,Non-Veteran,237,15063508,Bottom 25% of geographies,26-50% of geographies,22,40,44.7
+North Carolina,state,Hispanic,Female Owned,Non-Veteran,1146,40451791,51-75% of geographies,51-75% of geographies,72,68,21.2
+Virginia,state,Hispanic,Male Owned,Non-Veteran,1594,119129308,51-75% of geographies,51-75% of geographies,66,74,19.0
+Colorado,state,Hispanic,Male Owned,Non-Veteran,2605,179826673,Top 25% of geographies,Top 25% of geographies,82,82,4.1
+Illinois,state,Hispanic,Male Owned,Non-Veteran,6291,316228818,Top 25% of geographies,Top 25% of geographies,92,92,14.1
+Connecticut,state,White,Female Owned,Veteran,160,5798947,26-50% of geographies,26-50% of geographies,40,42,10.8
+Kentucky,state,Asian,Male Owned,Veteran,25,775188,51-75% of geographies,26-50% of geographies,53,47,8.0
+District of Columbia,state,White,Male Owned,Veteran,99,15857404,Bottom 25% of geographies,Bottom 25% of geographies,0,6,44.7
+Hawaii,state,Hispanic,Male Owned,Veteran,47,3187542,26-50% of geographies,26-50% of geographies,33,49,1.9
+Vermont,state,Hispanic,Female Owned,Non-Veteran,34,1809704,Bottom 25% of geographies,Bottom 25% of geographies,0,4,1.3
+Ohio,state,Hispanic,Female Owned,Non-Veteran,1255,36048013,51-75% of geographies,51-75% of geographies,76,66,12.3
+Kentucky,state,White,Female Owned,Non-Veteran,5048,171297801,26-50% of geographies,26-50% of geographies,48,42,8.0
+Louisiana,state,White,Female Owned,Veteran,198,8365268,26-50% of geographies,51-75% of geographies,48,52,31.9
+Missouri,state,Asian,Male Owned,Veteran,29,1335201,51-75% of geographies,51-75% of geographies,59,53,11.3
+Illinois,state,Asian,Male Owned,Veteran,93,3365050,Top 25% of geographies,51-75% of geographies,88,71,14.1
+Louisiana,state,White,Male Owned,Veteran,1089,64256433,26-50% of geographies,26-50% of geographies,46,44,31.9
+California,state,Hispanic,Male Owned,Veteran,1900,198318348,Top 25% of geographies,Top 25% of geographies,98,100,5.7
+Florida,state,Black,Female Owned,Veteran,692,16875040,Top 25% of geographies,Top 25% of geographies,96,96,15.7
+Pennsylvania,state,White,Male Owned,Non-Veteran,25424,2523097708,Top 25% of geographies,Top 25% of geographies,84,88,11.0
+Alaska,state,Black,Female Owned,Non-Veteran,40,855820,Bottom 25% of geographies,Bottom 25% of geographies,14,6,3.2
+Montana,state,Black,Female Owned,Non-Veteran,12,1096928,Bottom 25% of geographies,Bottom 25% of geographies,0,8,0.6
+Missouri,state,White,Female Owned,Non-Veteran,9492,413087128,Top 25% of geographies,Top 25% of geographies,82,80,11.3
+Nebraska,state,Hispanic,Male Owned,Veteran,37,1978620,26-50% of geographies,26-50% of geographies,27,37,4.8
+Colorado,state,Hispanic,Male Owned,Veteran,244,15404459,Top 25% of geographies,Top 25% of geographies,88,84,4.1
+Alabama,state,Black,Female Owned,Veteran,294,4378644,Top 25% of geographies,Top 25% of geographies,79,77,26.5
+New Mexico,state,White,Male Owned,Non-Veteran,2222,213248770,Bottom 25% of geographies,Bottom 25% of geographies,10,12,2.1
+Louisiana,state,Black,Female Owned,Non-Veteran,20840,358897389,Top 25% of geographies,Top 25% of geographies,90,90,31.9
+Kansas,state,Hispanic,Female Owned,Non-Veteran,416,12896176,26-50% of geographies,26-50% of geographies,40,38,5.6
+Georgia,state,Hispanic,Female Owned,Non-Veteran,2770,71360427,Top 25% of geographies,Top 25% of geographies,88,84,31.5
+New Mexico,state,Asian,Male Owned,Non-Veteran,344,25913259,26-50% of geographies,26-50% of geographies,26,30,2.1
+Kansas,state,Asian,Male Owned,Non-Veteran,665,39927121,26-50% of geographies,26-50% of geographies,38,38,5.6
+Georgia,state,Hispanic,Female Owned,Veteran,99,3596089,Top 25% of geographies,Top 25% of geographies,92,88,31.5
+Tennessee,state,White,Male Owned,Veteran,1567,98761104,51-75% of geographies,51-75% of geographies,70,60,16.5
+California,state,Black,Female Owned,Veteran,559,13088535,Top 25% of geographies,Top 25% of geographies,94,91,5.7
+Oregon,state,Black,Male Owned,Non-Veteran,627,22333429,26-50% of geographies,26-50% of geographies,30,34,1.9
+Arkansas,state,Black,Male Owned,Non-Veteran,2880,50461258,51-75% of geographies,26-50% of geographies,52,46,15.2
+North Dakota,state,Hispanic,Male Owned,Non-Veteran,115,8266001,Bottom 25% of geographies,Bottom 25% of geographies,6,8,3.1
+Washington,state,White,Female Owned,Non-Veteran,6941,402870752,51-75% of geographies,51-75% of geographies,68,76,3.9
+Wyoming,state,Hispanic,Female Owned,Veteran,4,194720,Bottom 25% of geographies,Bottom 25% of geographies,6,22,0.9
+Arkansas,state,Hispanic,Female Owned,Veteran,14,815864,26-50% of geographies,51-75% of geographies,40,54,15.2
+Montana,state,Black,Male Owned,Veteran,3,336782,Bottom 25% of geographies,Bottom 25% of geographies,4,12,0.6
+Iowa,state,Asian,Male Owned,Veteran,8,408463,26-50% of geographies,26-50% of geographies,27,39,3.7
+Tennessee,state,Hispanic,Male Owned,Veteran,93,5427180,51-75% of geographies,51-75% of geographies,63,59,16.5
+Kentucky,state,Black,Female Owned,Non-Veteran,1217,24082427,26-50% of geographies,26-50% of geographies,42,44,8.0
+Iowa,state,Black,Male Owned,Non-Veteran,846,16329757,26-50% of geographies,26-50% of geographies,34,32,3.7
+Utah,state,Asian,Male Owned,Non-Veteran,374,21802889,26-50% of geographies,26-50% of geographies,28,26,1.2
+Iowa,state,Asian,Male Owned,Non-Veteran,545,36325445,26-50% of geographies,26-50% of geographies,34,34,3.7
+Alaska,state,Asian,Female Owned,Non-Veteran,168,9880277,26-50% of geographies,26-50% of geographies,26,36,3.2
+Vermont,state,Hispanic,Female Owned,Veteran,2,141862,Bottom 25% of geographies,Bottom 25% of geographies,2,18,1.3
+Alabama,state,Black,Male Owned,Veteran,621,14435616,Top 25% of geographies,51-75% of geographies,80,76,26.5
+New York,state,Hispanic,Male Owned,Veteran,390,28928108,Top 25% of geographies,Top 25% of geographies,94,92,15.2
+Illinois,state,Asian,Female Owned,Veteran,26,688648,Top 25% of geographies,51-75% of geographies,79,70,14.1
+Rhode Island,state,Hispanic,Female Owned,Veteran,5,86972,Bottom 25% of geographies,Bottom 25% of geographies,12,12,6.4
+Minnesota,state,Black,Male Owned,Veteran,104,3089816,26-50% of geographies,26-50% of geographies,45,43,6.6
+Virginia,state,Asian,Male Owned,Veteran,84,15246098,Top 25% of geographies,Top 25% of geographies,82,94,19.0
+Mississippi,state,Black,Female Owned,Veteran,231,3834907,51-75% of geographies,51-75% of geographies,74,70,37.5
+New Mexico,state,Black,Male Owned,Non-Veteran,134,10629262,Bottom 25% of geographies,Bottom 25% of geographies,20,24,2.1
+Nebraska,state,White,Female Owned,Non-Veteran,4933,161279536,26-50% of geographies,26-50% of geographies,46,40,4.8
+New Hampshire,state,Hispanic,Female Owned,Veteran,3,56386,Bottom 25% of geographies,Bottom 25% of geographies,4,2,1.6
+Pennsylvania,state,Black,Male Owned,Veteran,316,11046998,51-75% of geographies,51-75% of geographies,65,61,11.0
+South Carolina,state,Asian,Female Owned,Veteran,7,175451,26-50% of geographies,26-50% of geographies,28,36,26.2
+North Dakota,state,White,Male Owned,Non-Veteran,8410,437237270,26-50% of geographies,26-50% of geographies,36,30,3.1
+Maine,state,White,Female Owned,Non-Veteran,2167,100607745,Bottom 25% of geographies,26-50% of geographies,22,28,1.4
+Mississippi,state,Asian,Male Owned,Non-Veteran,878,32200683,26-50% of geographies,26-50% of geographies,42,32,37.5
+Michigan,state,Black,Male Owned,Non-Veteran,11930,279988041,Top 25% of geographies,Top 25% of geographies,84,84,13.6
+New Jersey,state,Hispanic,Male Owned,Non-Veteran,5380,256202882,Top 25% of geographies,Top 25% of geographies,90,90,13.3
+Kentucky,state,White,Female Owned,Veteran,167,3795861,26-50% of geographies,26-50% of geographies,42,26,8.0
+Nevada,state,Black,Male Owned,Veteran,289,9776631,51-75% of geographies,51-75% of geographies,61,55,9.3
+Florida,state,Asian,Male Owned,Veteran,118,4653548,Top 25% of geographies,Top 25% of geographies,90,84,15.7
+New Mexico,state,Black,Female Owned,Non-Veteran,75,1285649,Bottom 25% of geographies,Bottom 25% of geographies,20,10,2.1
+Oklahoma,state,Black,Female Owned,Non-Veteran,1227,20406730,26-50% of geographies,26-50% of geographies,44,40,7.2
+Missouri,state,Hispanic,Female Owned,Non-Veteran,458,17985076,26-50% of geographies,26-50% of geographies,44,46,11.3
+Oklahoma,state,Asian,Female Owned,Non-Veteran,673,10608551,51-75% of geographies,26-50% of geographies,54,38,7.2
+New Mexico,state,Hispanic,Female Owned,Veteran,60,5587693,Top 25% of geographies,Top 25% of geographies,82,92,2.1
+North Dakota,state,Black,Male Owned,Non-Veteran,175,3767663,Bottom 25% of geographies,Bottom 25% of geographies,22,16,3.1
+Delaware,state,Black,Male Owned,Non-Veteran,1035,22348390,26-50% of geographies,26-50% of geographies,36,36,22.0
+New York,state,Hispanic,Female Owned,Non-Veteran,7702,270241363,Top 25% of geographies,Top 25% of geographies,94,94,15.2
+Oregon,state,Hispanic,Male Owned,Non-Veteran,1166,83971284,51-75% of geographies,51-75% of geographies,60,64,1.9
+Maryland,state,Hispanic,Female Owned,Veteran,56,939648,Top 25% of geographies,51-75% of geographies,80,58,29.8
+Oklahoma,state,Black,Female Owned,Veteran,39,715118,26-50% of geographies,26-50% of geographies,43,43,7.2
+Iowa,state,Black,Female Owned,Non-Veteran,977,17279649,26-50% of geographies,26-50% of geographies,36,34,3.7
+Massachusetts,state,Asian,Female Owned,Non-Veteran,1869,90684055,Top 25% of geographies,Top 25% of geographies,80,80,7.3
+Nevada,state,Hispanic,Female Owned,Veteran,52,1122340,Top 25% of geographies,51-75% of geographies,78,62,9.3
+Hawaii,state,Black,Male Owned,Veteran,48,2075031,26-50% of geographies,26-50% of geographies,29,39,1.9
+Rhode Island,state,Asian,Male Owned,Veteran,6,96180,Bottom 25% of geographies,Bottom 25% of geographies,16,8,6.4
+Nevada,state,Asian,Male Owned,Veteran,66,3368544,Top 25% of geographies,51-75% of geographies,78,73,9.3
+Delaware,state,Asian,Female Owned,Veteran,3,259720,Bottom 25% of geographies,51-75% of geographies,13,51,22.0
+Minnesota,state,Hispanic,Male Owned,Non-Veteran,830,49099633,26-50% of geographies,51-75% of geographies,44,54,6.6
+Georgia,state,Hispanic,Male Owned,Non-Veteran,3315,171438289,Top 25% of geographies,Top 25% of geographies,84,80,31.5
+Indiana,state,Asian,Female Owned,Non-Veteran,619,25884575,51-75% of geographies,51-75% of geographies,52,56,9.4
+Colorado,state,Asian,Female Owned,Veteran,24,1035714,51-75% of geographies,Top 25% of geographies,72,79,4.1
+Alaska,state,White,Male Owned,Non-Veteran,1924,180273628,Bottom 25% of geographies,Bottom 25% of geographies,6,8,3.2
+Iowa,state,Hispanic,Female Owned,Veteran,6,82439,Bottom 25% of geographies,Bottom 25% of geographies,14,10,3.7
+North Dakota,state,White,Female Owned,Veteran,67,1643132,Bottom 25% of geographies,Bottom 25% of geographies,18,2,3.1
+New Jersey,state,Hispanic,Male Owned,Veteran,183,11462537,Top 25% of geographies,Top 25% of geographies,80,78,13.3
+Nevada,state,Hispanic,Male Owned,Veteran,151,13801284,51-75% of geographies,Top 25% of geographies,76,82,9.3
+Illinois,state,Black,Female Owned,Veteran,542,10258474,Top 25% of geographies,Top 25% of geographies,91,89,14.1
+Hawaii,state,White,Male Owned,Non-Veteran,1917,186150002,Bottom 25% of geographies,Bottom 25% of geographies,4,10,1.9
+Florida,state,Black,Male Owned,Non-Veteran,26000,653626424,Top 25% of geographies,Top 25% of geographies,94,94,15.7
+New Hampshire,state,Black,Male Owned,Veteran,6,298071,Bottom 25% of geographies,Bottom 25% of geographies,8,8,1.6
+Vermont,state,White,Male Owned,Veteran,208,13983936,Bottom 25% of geographies,Bottom 25% of geographies,4,4,1.3
+Nebraska,state,White,Male Owned,Non-Veteran,15092,690202197,51-75% of geographies,26-50% of geographies,66,42,4.8
+Michigan,state,Hispanic,Male Owned,Non-Veteran,1341,100832133,51-75% of geographies,51-75% of geographies,62,66,13.6
+Pennsylvania,state,Asian,Male Owned,Non-Veteran,3504,181684690,Top 25% of geographies,51-75% of geographies,78,76,11.0
+South Carolina,state,Hispanic,Female Owned,Veteran,21,583381,51-75% of geographies,26-50% of geographies,54,38,26.2
+Michigan,state,Black,Male Owned,Veteran,472,13093787,51-75% of geographies,51-75% of geographies,71,71,13.6
+North Dakota,state,Asian,Male Owned,Veteran,3,57935,Bottom 25% of geographies,Bottom 25% of geographies,0,6,3.1
+Connecticut,state,White,Male Owned,Veteran,959,82262959,26-50% of geographies,51-75% of geographies,42,58,10.8
+Montana,state,Black,Female Owned,Veteran,2,254562,Bottom 25% of geographies,Bottom 25% of geographies,6,21,0.6
+Louisiana,state,White,Male Owned,Non-Veteran,10743,737126358,26-50% of geographies,26-50% of geographies,50,44,31.9
+Minnesota,state,Black,Male Owned,Non-Veteran,4314,117287114,51-75% of geographies,51-75% of geographies,60,62,6.6
+Tennessee,state,Hispanic,Male Owned,Non-Veteran,849,48389790,26-50% of geographies,51-75% of geographies,46,52,16.5
+Connecticut,state,Asian,Male Owned,Non-Veteran,1484,71232642,51-75% of geographies,51-75% of geographies,60,56,10.8
+Texas,state,Asian,Male Owned,Non-Veteran,12737,829841180,Top 25% of geographies,Top 25% of geographies,96,96,12.1
+Maine,state,Asian,Female Owned,Non-Veteran,85,3345829,Bottom 25% of geographies,Bottom 25% of geographies,14,12,1.4
+Pennsylvania,state,Hispanic,Female Owned,Veteran,32,621941,51-75% of geographies,26-50% of geographies,62,40,11.0
+West Virginia,state,Hispanic,Male Owned,Veteran,4,94545,Bottom 25% of geographies,Bottom 25% of geographies,0,0,3.4
+Kentucky,state,Black,Male Owned,Veteran,93,1924226,26-50% of geographies,26-50% of geographies,41,37,8.0
+Nevada,state,Black,Female Owned,Veteran,100,2467170,51-75% of geographies,51-75% of geographies,60,62,9.3
+Georgia,state,Black,Female Owned,Non-Veteran,53075,971781838,Top 25% of geographies,Top 25% of geographies,100,100,31.5
+Pennsylvania,state,Black,Male Owned,Non-Veteran,7636,176075561,51-75% of geographies,Top 25% of geographies,72,80,11.0
+Minnesota,state,Asian,Female Owned,Non-Veteran,781,38164054,51-75% of geographies,51-75% of geographies,56,62,6.6
+Maine,state,White,Female Owned,Veteran,106,4370942,26-50% of geographies,26-50% of geographies,26,34,1.4
+South Dakota,state,Hispanic,Male Owned,Veteran,10,948007,Bottom 25% of geographies,Bottom 25% of geographies,4,20,2.2
+North Carolina,state,Hispanic,Male Owned,Non-Veteran,1672,69150760,51-75% of geographies,51-75% of geographies,68,60,21.2
+Minnesota,state,Asian,Male Owned,Non-Veteran,1218,94067507,26-50% of geographies,51-75% of geographies,50,60,6.6
+Nebraska,state,White,Female Owned,Veteran,209,6544685,51-75% of geographies,26-50% of geographies,52,46,4.8
+Illinois,state,White,Female Owned,Veteran,450,20174440,Top 25% of geographies,Top 25% of geographies,92,86,14.1
+New Mexico,state,White,Male Owned,Veteran,257,20241463,Bottom 25% of geographies,Bottom 25% of geographies,12,12,2.1
+Indiana,state,Hispanic,Male Owned,Veteran,55,9554746,26-50% of geographies,51-75% of geographies,43,71,9.4
+Rhode Island,state,White,Male Owned,Non-Veteran,3192,330577578,Bottom 25% of geographies,Bottom 25% of geographies,14,20,6.4
+Illinois,state,Asian,Male Owned,Non-Veteran,6976,354770958,Top 25% of geographies,Top 25% of geographies,94,92,14.1
+Illinois,state,White,Female Owned,Non-Veteran,14940,701497594,Top 25% of geographies,Top 25% of geographies,90,90,14.1
+Oklahoma,state,Hispanic,Female Owned,Veteran,32,1434870,51-75% of geographies,51-75% of geographies,62,70,7.2
+North Carolina,state,Asian,Male Owned,Veteran,55,3000713,51-75% of geographies,51-75% of geographies,71,65,21.2
+Iowa,state,White,Male Owned,Veteran,2357,78989344,Top 25% of geographies,51-75% of geographies,82,52,3.7
+Maryland,state,Hispanic,Male Owned,Non-Veteran,1794,117992568,51-75% of geographies,51-75% of geographies,72,72,29.8
+Wisconsin,state,Asian,Female Owned,Non-Veteran,492,25285829,26-50% of geographies,51-75% of geographies,46,54,6.3
+Washington,state,Asian,Female Owned,Non-Veteran,2785,135815938,Top 25% of geographies,Top 25% of geographies,86,92,3.9
+Iowa,state,White,Female Owned,Veteran,264,4874814,51-75% of geographies,26-50% of geographies,62,38,3.7
+Montana,state,Asian,Male Owned,Veteran,4,49383,Bottom 25% of geographies,Bottom 25% of geographies,6,4,0.6
+Minnesota,state,Asian,Male Owned,Veteran,21,758796,26-50% of geographies,26-50% of geographies,49,45,6.6
+New York,state,Asian,Male Owned,Veteran,181,16069851,Top 25% of geographies,Top 25% of geographies,94,96,15.2
+Maryland,state,White,Male Owned,Veteran,853,80441541,26-50% of geographies,51-75% of geographies,36,56,29.8
+New Mexico,state,Black,Female Owned,Veteran,4,164010,Bottom 25% of geographies,Bottom 25% of geographies,15,17,2.1
+Wyoming,state,Asian,Male Owned,Non-Veteran,91,4595009,Bottom 25% of geographies,Bottom 25% of geographies,6,6,0.9
+Colorado,state,Asian,Female Owned,Non-Veteran,1041,37471821,51-75% of geographies,51-75% of geographies,66,60,4.1
+Ohio,state,White,Female Owned,Veteran,571,36781293,Top 25% of geographies,Top 25% of geographies,94,96,12.3
+Delaware,state,Black,Male Owned,Veteran,78,1661145,26-50% of geographies,26-50% of geographies,39,31,22.0
+Louisiana,state,Black,Male Owned,Veteran,808,20150165,Top 25% of geographies,Top 25% of geographies,88,84,31.9
+Georgia,state,Hispanic,Male Owned,Veteran,217,9521792,Top 25% of geographies,51-75% of geographies,86,69,31.5
+Nevada,state,White,Male Owned,Non-Veteran,5901,547890184,26-50% of geographies,26-50% of geographies,26,34,9.3
+Maine,state,Asian,Male Owned,Non-Veteran,208,17420420,Bottom 25% of geographies,Bottom 25% of geographies,16,22,1.4
+Virginia,state,Black,Male Owned,Veteran,676,31594203,Top 25% of geographies,Top 25% of geographies,82,90,19.0
+Oklahoma,state,White,Male Owned,Veteran,1572,64052047,51-75% of geographies,26-50% of geographies,72,42,7.2
+Pennsylvania,state,White,Male Owned,Veteran,2366,218528387,Top 25% of geographies,Top 25% of geographies,84,90,11.0
+Alabama,state,Hispanic,Male Owned,Non-Veteran,517,33144040,26-50% of geographies,26-50% of geographies,32,40,26.5
+North Carolina,state,Asian,Male Owned,Non-Veteran,2030,116025789,51-75% of geographies,51-75% of geographies,70,62,21.2
+Arizona,state,White,Female Owned,Veteran,287,15165965,51-75% of geographies,51-75% of geographies,66,72,4.5
+West Virginia,state,Asian,Male Owned,Veteran,4,128006,Bottom 25% of geographies,Bottom 25% of geographies,6,14,3.4
+Idaho,state,Asian,Male Owned,Veteran,12,850219,26-50% of geographies,26-50% of geographies,37,49,0.7
+Minnesota,state,Asian,Female Owned,Veteran,5,126660,Bottom 25% of geographies,26-50% of geographies,17,30,6.6
+Maine,state,Black,Male Owned,Non-Veteran,84,1581020,Bottom 25% of geographies,Bottom 25% of geographies,14,4,1.4
+Rhode Island,state,Hispanic,Male Owned,Non-Veteran,549,39934804,26-50% of geographies,26-50% of geographies,34,42,6.4
+Louisiana,state,Hispanic,Male Owned,Veteran,69,5851323,51-75% of geographies,51-75% of geographies,59,61,31.9
+Tennessee,state,White,Male Owned,Non-Veteran,14661,771805565,51-75% of geographies,51-75% of geographies,62,52,16.5
+Utah,state,Hispanic,Female Owned,Non-Veteran,472,26444416,26-50% of geographies,51-75% of geographies,46,58,1.2
+Nevada,state,Asian,Male Owned,Non-Veteran,1639,116635882,51-75% of geographies,51-75% of geographies,62,66,9.3
+Wyoming,state,Asian,Female Owned,Non-Veteran,41,981560,Bottom 25% of geographies,Bottom 25% of geographies,2,0,0.9
+Colorado,state,Black,Male Owned,Veteran,165,12010991,51-75% of geographies,51-75% of geographies,51,69,4.1
+Massachusetts,state,Black,Female Owned,Non-Veteran,1418,38857066,26-50% of geographies,26-50% of geographies,46,48,7.3
+Ohio,state,Black,Male Owned,Non-Veteran,15132,366287645,Top 25% of geographies,Top 25% of geographies,90,90,12.3
+Oklahoma,state,Hispanic,Male Owned,Non-Veteran,984,48379039,51-75% of geographies,26-50% of geographies,54,50,7.2
+District of Columbia,state,Asian,Male Owned,Non-Veteran,541,55027713,26-50% of geographies,26-50% of geographies,32,48,44.7
+New Jersey,state,Asian,Male Owned,Non-Veteran,6899,492726102,Top 25% of geographies,Top 25% of geographies,92,94,13.3
+Michigan,state,Hispanic,Female Owned,Veteran,20,506141,26-50% of geographies,26-50% of geographies,48,36,13.6
+Oregon,state,White,Female Owned,Veteran,275,10337888,51-75% of geographies,51-75% of geographies,64,56,1.9
+North Dakota,state,Black,Male Owned,Veteran,2,31248,Bottom 25% of geographies,Bottom 25% of geographies,2,2,3.1
+Michigan,state,White,Male Owned,Veteran,1751,180579886,51-75% of geographies,Top 25% of geographies,76,86,13.6
+Kansas,state,Hispanic,Male Owned,Veteran,57,1860212,26-50% of geographies,26-50% of geographies,47,33,5.6
+Nebraska,state,Black,Female Owned,Non-Veteran,318,5414980,26-50% of geographies,26-50% of geographies,28,28,4.8
+Mississippi,state,Black,Female Owned,Non-Veteran,11247,184196835,Top 25% of geographies,Top 25% of geographies,82,78,37.5
+New Hampshire,state,Black,Male Owned,Non-Veteran,81,2377896,Bottom 25% of geographies,Bottom 25% of geographies,12,10,1.6
+Washington,state,Black,Male Owned,Non-Veteran,3242,66819402,51-75% of geographies,51-75% of geographies,54,52,3.9
+Virginia,state,Black,Male Owned,Non-Veteran,4834,138200391,51-75% of geographies,51-75% of geographies,64,66,19.0
+Texas,state,Black,Male Owned,Non-Veteran,30746,694255865,Top 25% of geographies,Top 25% of geographies,96,96,12.1
+South Dakota,state,Hispanic,Female Owned,Non-Veteran,64,1636925,Bottom 25% of geographies,Bottom 25% of geographies,8,2,2.2
+Maryland,state,Hispanic,Female Owned,Non-Veteran,1091,46396725,51-75% of geographies,51-75% of geographies,70,70,29.8
+Wisconsin,state,Hispanic,Male Owned,Non-Veteran,849,45010400,26-50% of geographies,26-50% of geographies,46,46,6.3
+West Virginia,state,White,Female Owned,Non-Veteran,1895,81074198,Bottom 25% of geographies,Bottom 25% of geographies,18,14,3.4
+New Mexico,state,White,Female Owned,Non-Veteran,1178,85222852,Bottom 25% of geographies,Bottom 25% of geographies,10,18,2.1
+Mississippi,state,Hispanic,Female Owned,Veteran,7,81277,Bottom 25% of geographies,Bottom 25% of geographies,18,8,37.5
+California,state,Black,Male Owned,Veteran,1534,65918357,Top 25% of geographies,Top 25% of geographies,96,96,5.7
+Georgia,state,White,Male Owned,Veteran,1877,149349929,Top 25% of geographies,Top 25% of geographies,80,82,31.5
+Missouri,state,Hispanic,Male Owned,Veteran,50,1287981,26-50% of geographies,Bottom 25% of geographies,41,24,11.3
+Arizona,state,Black,Female Owned,Veteran,82,3629817,51-75% of geographies,51-75% of geographies,55,66,4.5
+Utah,state,Black,Female Owned,Non-Veteran,62,1750325,Bottom 25% of geographies,Bottom 25% of geographies,16,18,1.2
+West Virginia,state,Hispanic,Male Owned,Non-Veteran,105,11125466,Bottom 25% of geographies,Bottom 25% of geographies,4,10,3.4
+Georgia,state,White,Female Owned,Veteran,298,12818986,51-75% of geographies,51-75% of geographies,70,68,31.5
+Nebraska,state,Black,Male Owned,Veteran,36,1212895,26-50% of geographies,Bottom 25% of geographies,27,24,4.8
+Ohio,state,Black,Male Owned,Veteran,681,25238476,Top 25% of geographies,Top 25% of geographies,84,88,12.3
+Arkansas,state,White,Male Owned,Veteran,720,31873003,26-50% of geographies,26-50% of geographies,30,26,15.2
+Idaho,state,Hispanic,Male Owned,Veteran,47,2194446,26-50% of geographies,26-50% of geographies,33,41,0.7
+Idaho,state,Black,Female Owned,Veteran,1,8027,Bottom 25% of geographies,Bottom 25% of geographies,0,4,0.7
+Delaware,state,White,Male Owned,Non-Veteran,1458,169070860,Bottom 25% of geographies,Bottom 25% of geographies,2,6,22.0
+New Hampshire,state,Hispanic,Male Owned,Non-Veteran,198,14318431,Bottom 25% of geographies,Bottom 25% of geographies,14,16,1.6
+Maine,state,Hispanic,Female Owned,Veteran,7,285388,Bottom 25% of geographies,26-50% of geographies,18,26,1.4
+Wyoming,state,Black,Male Owned,Non-Veteran,75,3523017,Bottom 25% of geographies,Bottom 25% of geographies,8,14,0.9
+Tennessee,state,Black,Male Owned,Non-Veteran,8192,170033951,51-75% of geographies,Top 25% of geographies,76,78,16.5
+Illinois,state,Black,Male Owned,Non-Veteran,38183,826724381,Top 25% of geographies,Top 25% of geographies,98,98,14.1
+Delaware,state,Hispanic,Female Owned,Non-Veteran,139,6588354,Bottom 25% of geographies,Bottom 25% of geographies,18,22,22.0
+Kansas,state,White,Female Owned,Veteran,225,5857336,51-75% of geographies,26-50% of geographies,54,44,5.6
+Mississippi,state,Asian,Male Owned,Veteran,9,133092,26-50% of geographies,Bottom 25% of geographies,29,16,37.5
+Maryland,state,Asian,Female Owned,Veteran,33,1396845,Top 25% of geographies,Top 25% of geographies,85,83,29.8
+Nevada,state,Black,Male Owned,Non-Veteran,4347,89385971,51-75% of geographies,51-75% of geographies,62,56,9.3
+Maryland,state,Asian,Female Owned,Non-Veteran,1832,73150789,Top 25% of geographies,Top 25% of geographies,78,78,29.8
+South Dakota,state,Hispanic,Female Owned,Veteran,1,10294,Bottom 25% of geographies,Bottom 25% of geographies,0,0,2.2
+New Jersey,state,Black,Male Owned,Veteran,244,11189054,51-75% of geographies,51-75% of geographies,57,65,13.3
+Oklahoma,state,Asian,Male Owned,Veteran,20,714063,26-50% of geographies,26-50% of geographies,47,43,7.2
+Idaho,state,White,Male Owned,Veteran,574,31557842,26-50% of geographies,Bottom 25% of geographies,26,24,0.7
+Rhode Island,state,Black,Female Owned,Non-Veteran,150,3199119,Bottom 25% of geographies,26-50% of geographies,24,26,6.4
+Missouri,state,Black,Female Owned,Non-Veteran,4523,84367417,51-75% of geographies,51-75% of geographies,62,62,11.3
+Rhode Island,state,Black,Male Owned,Non-Veteran,294,14140034,26-50% of geographies,26-50% of geographies,26,28,6.4
+North Carolina,state,Black,Female Owned,Veteran,370,5669261,Top 25% of geographies,Top 25% of geographies,87,81,21.2
+Massachusetts,state,Black,Male Owned,Non-Veteran,2800,101159533,26-50% of geographies,51-75% of geographies,48,60,7.3
+Delaware,state,Asian,Male Owned,Non-Veteran,336,22152103,Bottom 25% of geographies,26-50% of geographies,24,28,22.0
+Virginia,state,Asian,Female Owned,Non-Veteran,2061,102154446,Top 25% of geographies,Top 25% of geographies,82,86,19.0
+Nebraska,state,Hispanic,Female Owned,Veteran,8,138669,Bottom 25% of geographies,Bottom 25% of geographies,22,16,4.8
+Hawaii,state,Black,Male Owned,Non-Veteran,116,6750716,Bottom 25% of geographies,Bottom 25% of geographies,16,22,1.9
+Texas,state,Hispanic,Male Owned,Non-Veteran,29890,1760660560,Top 25% of geographies,Top 25% of geographies,96,98,12.1
+North Carolina,state,White,Female Owned,Veteran,328,20701759,51-75% of geographies,Top 25% of geographies,72,88,21.2
+New York,state,White,Female Owned,Veteran,355,22040189,Top 25% of geographies,Top 25% of geographies,84,90,15.2
+Arkansas,state,White,Male Owned,Non-Veteran,7657,374932030,26-50% of geographies,26-50% of geographies,34,26,15.2
+Florida,state,Hispanic,Male Owned,Non-Veteran,36627,1611065322,Top 25% of geographies,Top 25% of geographies,100,96,15.7
+Oregon,state,Black,Male Owned,Veteran,48,1626093,26-50% of geographies,26-50% of geographies,29,29,1.9
+Louisiana,state,Asian,Female Owned,Veteran,14,360873,51-75% of geographies,51-75% of geographies,55,60,31.9
+Oklahoma,state,White,Male Owned,Non-Veteran,14675,799596195,51-75% of geographies,51-75% of geographies,64,56,7.2
+Oregon,state,Asian,Female Owned,Non-Veteran,1041,46394640,51-75% of geographies,51-75% of geographies,66,70,1.9
+California,state,Asian,Female Owned,Non-Veteran,24738,1391069787,Top 25% of geographies,Top 25% of geographies,100,100,5.7
+Hawaii,state,Black,Female Owned,Veteran,12,432455,26-50% of geographies,26-50% of geographies,28,30,1.9
+Arkansas,state,Asian,Female Owned,Veteran,8,142068,26-50% of geographies,26-50% of geographies,38,34,15.2
+Hawaii,state,Hispanic,Male Owned,Non-Veteran,340,32216986,Bottom 25% of geographies,26-50% of geographies,22,38,1.9
+New Mexico,state,Hispanic,Male Owned,Non-Veteran,2132,198187469,51-75% of geographies,Top 25% of geographies,76,88,2.1
+North Carolina,state,Asian,Female Owned,Non-Veteran,1072,40930009,51-75% of geographies,51-75% of geographies,72,64,21.2
+Iowa,state,Black,Male Owned,Veteran,28,402586,Bottom 25% of geographies,Bottom 25% of geographies,22,18,3.7
+Tennessee,state,Asian,Male Owned,Veteran,7,156351,Bottom 25% of geographies,Bottom 25% of geographies,22,20,16.5
+Utah,state,White,Male Owned,Veteran,439,33867119,Bottom 25% of geographies,26-50% of geographies,20,28,1.2
+Missouri,state,White,Male Owned,Veteran,2396,108225629,Top 25% of geographies,51-75% of geographies,86,64,11.3
+Idaho,state,Hispanic,Female Owned,Non-Veteran,257,11002370,26-50% of geographies,26-50% of geographies,26,34,0.7
+Oklahoma,state,Asian,Male Owned,Non-Veteran,903,40432293,26-50% of geographies,26-50% of geographies,44,40,7.2
+Arkansas,state,Asian,Female Owned,Non-Veteran,220,5223943,26-50% of geographies,Bottom 25% of geographies,28,20,15.2
+Utah,state,Asian,Female Owned,Non-Veteran,163,6176823,Bottom 25% of geographies,26-50% of geographies,22,26,1.2
+Arizona,state,Asian,Male Owned,Veteran,42,4249445,51-75% of geographies,Top 25% of geographies,63,80,4.5
+Oklahoma,state,Hispanic,Male Owned,Veteran,63,3315731,51-75% of geographies,51-75% of geographies,57,51,7.2
+Minnesota,state,White,Male Owned,Non-Veteran,26001,1969313476,Top 25% of geographies,Top 25% of geographies,88,82,6.6
+Kentucky,state,Hispanic,Male Owned,Non-Veteran,453,24183534,26-50% of geographies,26-50% of geographies,28,28,8.0
+Kansas,state,Hispanic,Male Owned,Non-Veteran,888,32067748,51-75% of geographies,26-50% of geographies,52,36,5.6
+New York,state,Asian,Male Owned,Non-Veteran,22186,913700069,Top 25% of geographies,Top 25% of geographies,98,98,15.2
+North Carolina,state,White,Female Owned,Non-Veteran,6580,281243813,51-75% of geographies,51-75% of geographies,62,62,21.2
+Florida,state,Asian,Female Owned,Non-Veteran,3297,97804496,Top 25% of geographies,Top 25% of geographies,94,84,15.7
+Massachusetts,state,Hispanic,Female Owned,Veteran,47,2290378,51-75% of geographies,Top 25% of geographies,74,80,7.3
+Washington,state,White,Male Owned,Veteran,1523,140228051,51-75% of geographies,Top 25% of geographies,66,80,3.9
+Florida,state,White,Male Owned,Veteran,3931,321917607,Top 25% of geographies,Top 25% of geographies,96,96,15.7
+Alabama,state,Asian,Female Owned,Veteran,7,77708,26-50% of geographies,Bottom 25% of geographies,28,15,26.5
+Colorado,state,White,Male Owned,Non-Veteran,14144,1356088570,51-75% of geographies,51-75% of geographies,60,70,4.1
+Montana,state,Black,Male Owned,Non-Veteran,45,1011536,Bottom 25% of geographies,Bottom 25% of geographies,0,0,0.6
+Oregon,state,Asian,Male Owned,Non-Veteran,1664,116131996,51-75% of geographies,51-75% of geographies,64,64,1.9
+Rhode Island,state,White,Male Owned,Veteran,309,26182797,Bottom 25% of geographies,Bottom 25% of geographies,14,18,6.4
+Minnesota,state,White,Male Owned,Veteran,2502,135961146,Top 25% of geographies,Top 25% of geographies,90,78,6.6
+Montana,state,Hispanic,Male Owned,Veteran,12,258574,Bottom 25% of geographies,Bottom 25% of geographies,6,2,0.6
+New Mexico,state,Hispanic,Male Owned,Veteran,186,13075532,Top 25% of geographies,Top 25% of geographies,82,80,2.1
+Florida,state,White,Male Owned,Non-Veteran,33648,2699970723,Top 25% of geographies,Top 25% of geographies,90,92,15.7
+Louisiana,state,Hispanic,Female Owned,Non-Veteran,693,16724061,51-75% of geographies,26-50% of geographies,56,42,31.9
+Virginia,state,Asian,Male Owned,Non-Veteran,4020,229281190,Top 25% of geographies,Top 25% of geographies,84,82,19.0
+Arizona,state,White,Female Owned,Non-Veteran,6058,308329442,51-75% of geographies,51-75% of geographies,58,66,4.5
+District of Columbia,state,White,Female Owned,Veteran,23,1731799,Bottom 25% of geographies,Bottom 25% of geographies,0,6,44.7
+New York,state,Black,Male Owned,Veteran,377,10246172,51-75% of geographies,51-75% of geographies,69,57,15.2
+Georgia,state,Black,Male Owned,Veteran,3193,70451952,Top 25% of geographies,Top 25% of geographies,100,98,31.5
+New Mexico,state,Asian,Male Owned,Veteran,12,1147138,26-50% of geographies,51-75% of geographies,37,51,2.1
+Nebraska,state,White,Male Owned,Veteran,1476,61521973,51-75% of geographies,26-50% of geographies,60,38,4.8
+Texas,state,Hispanic,Male Owned,Veteran,2103,135166371,Top 25% of geographies,Top 25% of geographies,100,98,12.1
+Nevada,state,Black,Female Owned,Non-Veteran,5427,97785737,51-75% of geographies,51-75% of geographies,66,66,9.3
+Arkansas,state,Hispanic,Male Owned,Non-Veteran,567,21013036,26-50% of geographies,Bottom 25% of geographies,38,24,15.2
+Maryland,state,Asian,Male Owned,Non-Veteran,3680,197569859,Top 25% of geographies,Top 25% of geographies,80,78,29.8
+North Dakota,state,White,Female Owned,Non-Veteran,2168,90317374,Bottom 25% of geographies,Bottom 25% of geographies,24,20,3.1
+Connecticut,state,White,Female Owned,Non-Veteran,5136,270086571,26-50% of geographies,51-75% of geographies,50,60,10.8
+Vermont,state,Asian,Female Owned,Non-Veteran,44,3161511,Bottom 25% of geographies,Bottom 25% of geographies,6,10,1.3
+District of Columbia,state,Hispanic,Male Owned,Veteran,13,911636,Bottom 25% of geographies,Bottom 25% of geographies,10,18,44.7
+New Jersey,state,Asian,Female Owned,Non-Veteran,2955,164460970,Top 25% of geographies,Top 25% of geographies,90,94,13.3
+Arizona,state,Hispanic,Female Owned,Veteran,89,3298771,Top 25% of geographies,Top 25% of geographies,88,84,4.5
+Connecticut,state,Asian,Male Owned,Veteran,22,2124275,51-75% of geographies,51-75% of geographies,51,59,10.8
+Tennessee,state,Black,Female Owned,Veteran,207,3740197,51-75% of geographies,51-75% of geographies,72,68,16.5
+Vermont,state,Black,Female Owned,Non-Veteran,19,1560401,Bottom 25% of geographies,Bottom 25% of geographies,2,14,1.3
+Washington,state,Black,Female Owned,Non-Veteran,1549,35883308,26-50% of geographies,26-50% of geographies,50,46,3.9
+Arizona,state,Hispanic,Female Owned,Non-Veteran,2729,88484483,Top 25% of geographies,Top 25% of geographies,86,88,4.5
+Nebraska,state,Asian,Female Owned,Non-Veteran,288,7056438,26-50% of geographies,26-50% of geographies,34,30,4.8
+Ohio,state,Hispanic,Female Owned,Veteran,50,1929524,51-75% of geographies,51-75% of geographies,76,74,12.3
+Arizona,state,Black,Male Owned,Veteran,306,10336373,51-75% of geographies,51-75% of geographies,63,59,4.5
+Nevada,state,Asian,Female Owned,Veteran,23,1283571,51-75% of geographies,Top 25% of geographies,70,81,9.3
+Vermont,state,White,Male Owned,Non-Veteran,2445,167651848,Bottom 25% of geographies,Bottom 25% of geographies,12,4,1.3
+Oregon,state,White,Male Owned,Non-Veteran,8976,796288583,26-50% of geographies,51-75% of geographies,40,54,1.9
+Georgia,state,Black,Male Owned,Non-Veteran,42377,913929104,Top 25% of geographies,Top 25% of geographies,100,100,31.5
+North Dakota,state,Asian,Male Owned,Non-Veteran,82,3791728,Bottom 25% of geographies,Bottom 25% of geographies,4,0,3.1
+Colorado,state,White,Female Owned,Non-Veteran,7345,391597408,51-75% of geographies,51-75% of geographies,70,72,4.1
+Tennessee,state,Asian,Female Owned,Non-Veteran,579,19072753,26-50% of geographies,26-50% of geographies,50,50,16.5
+Wyoming,state,Asian,Male Owned,Veteran,5,123897,Bottom 25% of geographies,Bottom 25% of geographies,12,12,0.9
+Rhode Island,state,Black,Female Owned,Veteran,2,25727,Bottom 25% of geographies,Bottom 25% of geographies,6,6,6.4
+Louisiana,state,Black,Female Owned,Veteran,385,7989890,Top 25% of geographies,Top 25% of geographies,89,87,31.9
+Kansas,state,Black,Female Owned,Non-Veteran,574,10317581,26-50% of geographies,26-50% of geographies,32,32,5.6
+West Virginia,state,Black,Male Owned,Non-Veteran,213,4837586,Bottom 25% of geographies,Bottom 25% of geographies,24,20,3.4
+Michigan,state,Asian,Male Owned,Non-Veteran,2163,172324008,51-75% of geographies,51-75% of geographies,72,74,13.6
+Indiana,state,Black,Male Owned,Veteran,335,15703136,51-75% of geographies,Top 25% of geographies,67,78,9.4
+New Jersey,state,Asian,Female Owned,Veteran,15,697277,51-75% of geographies,51-75% of geographies,62,72,13.3
+South Carolina,state,White,Male Owned,Non-Veteran,6907,531468521,26-50% of geographies,26-50% of geographies,30,32,26.2
+Utah,state,White,Male Owned,Non-Veteran,6445,768085413,26-50% of geographies,26-50% of geographies,28,50,1.2
+New York,state,Black,Male Owned,Non-Veteran,14040,361864562,Top 25% of geographies,Top 25% of geographies,86,88,15.2
+California,state,Hispanic,Female Owned,Veteran,508,36667867,Top 25% of geographies,Top 25% of geographies,100,100,5.7
+Kansas,state,Black,Male Owned,Veteran,71,1728855,26-50% of geographies,26-50% of geographies,35,35,5.6
+Maine,state,Hispanic,Male Owned,Veteran,14,789445,Bottom 25% of geographies,Bottom 25% of geographies,12,16,1.4
+Hawaii,state,Asian,Female Owned,Veteran,89,2651617,Top 25% of geographies,Top 25% of geographies,96,91,1.9
+Maine,state,White,Male Owned,Non-Veteran,4568,300331368,Bottom 25% of geographies,Bottom 25% of geographies,20,14,1.4
+New York,state,Black,Female Owned,Non-Veteran,10111,236062335,Top 25% of geographies,Top 25% of geographies,78,84,15.2
+Connecticut,state,Black,Male Owned,Non-Veteran,1369,34648804,26-50% of geographies,26-50% of geographies,44,40,10.8
+Washington,state,Asian,Male Owned,Veteran,151,14252569,Top 25% of geographies,Top 25% of geographies,92,92,3.9
+Maine,state,White,Male Owned,Veteran,522,27420038,Bottom 25% of geographies,Bottom 25% of geographies,22,20,1.4
+California,state,Asian,Female Owned,Veteran,450,21449384,Top 25% of geographies,Top 25% of geographies,100,100,5.7
+Alabama,state,Black,Female Owned,Non-Veteran,11342,191352855,Top 25% of geographies,Top 25% of geographies,84,82,26.5
+Wyoming,state,White,Male Owned,Veteran,214,9077275,Bottom 25% of geographies,Bottom 25% of geographies,8,0,0.9
+Arizona,state,Hispanic,Male Owned,Veteran,328,25171197,Top 25% of geographies,Top 25% of geographies,90,88,4.5
+Washington,state,Asian,Female Owned,Veteran,87,4200602,Top 25% of geographies,Top 25% of geographies,94,96,3.9
+Maryland,state,Black,Female Owned,Non-Veteran,7642,164603472,51-75% of geographies,51-75% of geographies,70,76,29.8
+South Carolina,state,Hispanic,Male Owned,Non-Veteran,562,20302764,26-50% of geographies,Bottom 25% of geographies,36,22,26.2
+West Virginia,state,Black,Male Owned,Veteran,22,348005,Bottom 25% of geographies,Bottom 25% of geographies,20,14,3.4
+Virginia,state,Hispanic,Female Owned,Veteran,63,2237299,Top 25% of geographies,Top 25% of geographies,84,78,19.0
+Kansas,state,Asian,Female Owned,Veteran,12,103838,51-75% of geographies,Bottom 25% of geographies,53,21,5.6
+Massachusetts,state,Hispanic,Male Owned,Non-Veteran,3534,183140771,Top 25% of geographies,Top 25% of geographies,86,84,7.3
+Ohio,state,Asian,Male Owned,Non-Veteran,2658,171807596,51-75% of geographies,51-75% of geographies,74,72,12.3
+Mississippi,state,White,Female Owned,Non-Veteran,4656,144031712,26-50% of geographies,26-50% of geographies,44,36,37.5
+Pennsylvania,state,White,Female Owned,Non-Veteran,10297,673652611,Top 25% of geographies,Top 25% of geographies,88,88,11.0
+North Carolina,state,White,Male Owned,Veteran,1521,113384647,51-75% of geographies,51-75% of geographies,64,70,21.2
+Kentucky,state,Black,Female Owned,Veteran,43,638536,26-50% of geographies,26-50% of geographies,47,36,8.0
+North Carolina,state,Black,Male Owned,Non-Veteran,7730,160506560,51-75% of geographies,51-75% of geographies,74,72,21.2
+California,state,Asian,Male Owned,Non-Veteran,43997,3365630306,Top 25% of geographies,Top 25% of geographies,100,100,5.7
+Idaho,state,White,Female Owned,Non-Veteran,2449,100249357,26-50% of geographies,26-50% of geographies,28,26,0.7
+Pennsylvania,state,White,Female Owned,Veteran,360,17999091,Top 25% of geographies,Top 25% of geographies,86,80,11.0
+Rhode Island,state,Hispanic,Male Owned,Veteran,12,731244,Bottom 25% of geographies,Bottom 25% of geographies,6,14,6.4
+Alaska,state,Hispanic,Female Owned,Non-Veteran,132,7535327,Bottom 25% of geographies,26-50% of geographies,16,28,3.2
+Alabama,state,Hispanic,Female Owned,Non-Veteran,340,12108197,26-50% of geographies,26-50% of geographies,38,36,26.5
+Kansas,state,Black,Female Owned,Veteran,18,332043,26-50% of geographies,26-50% of geographies,30,28,5.6
+Michigan,state,Black,Female Owned,Veteran,200,4220976,51-75% of geographies,51-75% of geographies,70,74,13.6
+Michigan,state,Black,Female Owned,Non-Veteran,14300,262641670,Top 25% of geographies,Top 25% of geographies,86,86,13.6
+Utah,state,Black,Male Owned,Non-Veteran,124,4535426,Bottom 25% of geographies,Bottom 25% of geographies,18,18,1.2
+Arkansas,state,Asian,Male Owned,Non-Veteran,488,17358318,26-50% of geographies,Bottom 25% of geographies,30,20,15.2
+Arizona,state,Asian,Male Owned,Non-Veteran,1768,123451453,51-75% of geographies,51-75% of geographies,68,70,4.5
+Wyoming,state,White,Female Owned,Veteran,51,1968895,Bottom 25% of geographies,Bottom 25% of geographies,8,10,0.9
+Alabama,state,White,Female Owned,Veteran,141,3389934,26-50% of geographies,Bottom 25% of geographies,36,24,26.5
+South Carolina,state,Black,Male Owned,Non-Veteran,7146,138566091,51-75% of geographies,51-75% of geographies,70,68,26.2
+New Mexico,state,Asian,Female Owned,Non-Veteran,163,4755271,Bottom 25% of geographies,Bottom 25% of geographies,22,18,2.1
+Kansas,state,Hispanic,Female Owned,Veteran,17,635244,26-50% of geographies,26-50% of geographies,46,42,5.6
+Washington,state,White,Female Owned,Veteran,363,31029405,Top 25% of geographies,Top 25% of geographies,88,92,3.9
+Indiana,state,Asian,Female Owned,Veteran,20,348859,51-75% of geographies,51-75% of geographies,66,57,9.4
+Tennessee,state,Asian,Male Owned,Non-Veteran,1355,72932501,51-75% of geographies,51-75% of geographies,56,58,16.5
+Pennsylvania,state,Asian,Female Owned,Non-Veteran,1539,62388662,51-75% of geographies,51-75% of geographies,76,76,11.0
+Alaska,state,Black,Male Owned,Veteran,15,726483,Bottom 25% of geographies,Bottom 25% of geographies,16,22,3.2
+Mississippi,state,Asian,Female Owned,Non-Veteran,425,6754302,26-50% of geographies,26-50% of geographies,40,28,37.5
+Georgia,state,Asian,Male Owned,Veteran,77,3311689,Top 25% of geographies,51-75% of geographies,80,69,31.5
+Oregon,state,White,Male Owned,Veteran,1106,79866331,26-50% of geographies,51-75% of geographies,48,54,1.9
+North Carolina,state,White,Male Owned,Non-Veteran,12391,971376697,51-75% of geographies,51-75% of geographies,58,62,21.2
+North Carolina,state,Black,Female Owned,Non-Veteran,9071,148157301,51-75% of geographies,51-75% of geographies,74,70,21.2
+Missouri,state,Asian,Male Owned,Non-Veteran,958,52020031,26-50% of geographies,26-50% of geographies,48,44,11.3
+Nevada,state,White,Female Owned,Non-Veteran,3325,155182420,26-50% of geographies,26-50% of geographies,32,38,9.3
+New Jersey,state,White,Female Owned,Non-Veteran,6442,413017601,51-75% of geographies,Top 25% of geographies,60,78,13.3
+Washington,state,Black,Female Owned,Veteran,37,644136,26-50% of geographies,26-50% of geographies,38,38,3.9
+Georgia,state,Black,Female Owned,Veteran,1650,31855921,Top 25% of geographies,Top 25% of geographies,100,100,31.5
+Colorado,state,Black,Female Owned,Non-Veteran,844,20998865,26-50% of geographies,26-50% of geographies,34,42,4.1
+Arizona,state,Hispanic,Male Owned,Non-Veteran,3822,189486117,Top 25% of geographies,Top 25% of geographies,88,86,4.5
+Delaware,state,White,Female Owned,Non-Veteran,704,58424451,Bottom 25% of geographies,Bottom 25% of geographies,2,12,22.0
+West Virginia,state,Hispanic,Female Owned,Veteran,6,307076,Bottom 25% of geographies,26-50% of geographies,14,28,3.4
+Georgia,state,White,Male Owned,Non-Veteran,18559,1461575522,51-75% of geographies,Top 25% of geographies,74,78,31.5
+Michigan,state,White,Male Owned,Non-Veteran,23748,2470553669,Top 25% of geographies,Top 25% of geographies,82,86,13.6
+West Virginia,state,White,Female Owned,Veteran,77,3115339,Bottom 25% of geographies,Bottom 25% of geographies,20,20,3.4
+Maine,state,Asian,Female Owned,Veteran,6,62693,Bottom 25% of geographies,Bottom 25% of geographies,21,9,1.4
+Pennsylvania,state,Hispanic,Female Owned,Non-Veteran,1636,47546602,Top 25% of geographies,51-75% of geographies,78,72,11.0
+New Hampshire,state,White,Female Owned,Non-Veteran,1765,98807736,Bottom 25% of geographies,Bottom 25% of geographies,16,24,1.6
+New Mexico,state,Black,Male Owned,Veteran,30,1683357,Bottom 25% of geographies,26-50% of geographies,24,33,2.1
+Wisconsin,state,Hispanic,Male Owned,Veteran,56,3049489,26-50% of geographies,26-50% of geographies,45,47,6.3
+Georgia,state,Asian,Female Owned,Veteran,31,965679,Top 25% of geographies,51-75% of geographies,83,74,31.5
+Texas,state,Asian,Female Owned,Veteran,129,6065398,Top 25% of geographies,Top 25% of geographies,98,98,12.1
+Alabama,state,Asian,Male Owned,Non-Veteran,939,53136004,26-50% of geographies,26-50% of geographies,46,46,26.5
+Missouri,state,Asian,Female Owned,Veteran,10,210632,26-50% of geographies,26-50% of geographies,45,47,11.3
+Kansas,state,White,Male Owned,Non-Veteran,16980,843626283,51-75% of geographies,51-75% of geographies,70,58,5.6
+Oregon,state,Hispanic,Female Owned,Non-Veteran,727,30615397,51-75% of geographies,51-75% of geographies,58,60,1.9
+Alabama,state,Hispanic,Male Owned,Veteran,48,1352805,26-50% of geographies,26-50% of geographies,37,29,26.5
+Alaska,state,Hispanic,Male Owned,Veteran,40,2222725,26-50% of geographies,26-50% of geographies,29,43,3.2
+Arkansas,state,Black,Female Owned,Veteran,99,1595907,51-75% of geographies,51-75% of geographies,57,55,15.2
+Missouri,state,Hispanic,Male Owned,Non-Veteran,724,44672044,26-50% of geographies,26-50% of geographies,42,44,11.3
+Colorado,state,Asian,Male Owned,Non-Veteran,1683,117485670,51-75% of geographies,51-75% of geographies,66,68,4.1
+North Dakota,state,Hispanic,Female Owned,Veteran,4,57608,Bottom 25% of geographies,Bottom 25% of geographies,6,4,3.1
+Oklahoma,state,Black,Male Owned,Veteran,150,4129543,26-50% of geographies,26-50% of geographies,49,47,7.2
+Michigan,state,Asian,Male Owned,Veteran,29,2426360,51-75% of geographies,51-75% of geographies,59,61,13.6
+Delaware,state,Black,Female Owned,Veteran,24,576701,26-50% of geographies,26-50% of geographies,34,34,22.0
+New York,state,White,Male Owned,Non-Veteran,45221,4511090643,Top 25% of geographies,Top 25% of geographies,98,98,15.2
+South Dakota,state,Black,Male Owned,Non-Veteran,64,1160089,Bottom 25% of geographies,Bottom 25% of geographies,4,2,2.2
+Illinois,state,Hispanic,Female Owned,Non-Veteran,4746,147851720,Top 25% of geographies,Top 25% of geographies,92,92,14.1
+Rhode Island,state,Asian,Male Owned,Non-Veteran,234,14622152,Bottom 25% of geographies,Bottom 25% of geographies,18,18,6.4
+Louisiana,state,Asian,Male Owned,Non-Veteran,1345,48320027,51-75% of geographies,26-50% of geographies,54,42,31.9
+Kansas,state,White,Female Owned,Non-Veteran,6625,252098712,51-75% of geographies,51-75% of geographies,64,58,5.6
+Colorado,state,Hispanic,Female Owned,Veteran,70,10094286,Top 25% of geographies,Top 25% of geographies,86,94,4.1
+Iowa,state,White,Male Owned,Non-Veteran,25951,1083959587,Top 25% of geographies,51-75% of geographies,86,66,3.7
+Illinois,state,Black,Female Owned,Non-Veteran,47131,928839425,Top 25% of geographies,Top 25% of geographies,98,98,14.1
+Minnesota,state,Hispanic,Female Owned,Non-Veteran,435,20268512,26-50% of geographies,26-50% of geographies,42,50,6.6
+West Virginia,state,Asian,Female Owned,Non-Veteran,65,2006999,Bottom 25% of geographies,Bottom 25% of geographies,10,4,3.4
+Ohio,state,Asian,Female Owned,Non-Veteran,1107,47427955,51-75% of geographies,51-75% of geographies,74,72,12.3
+Alaska,state,White,Female Owned,Veteran,60,1844375,Bottom 25% of geographies,Bottom 25% of geographies,12,8,3.2
+Utah,state,Asian,Female Owned,Veteran,5,197027,Bottom 25% of geographies,26-50% of geographies,17,40,1.2
+Connecticut,state,White,Male Owned,Non-Veteran,12164,1027688638,51-75% of geographies,51-75% of geographies,54,64,10.8
+Missouri,state,Black,Male Owned,Non-Veteran,3642,92539626,51-75% of geographies,51-75% of geographies,58,58,11.3
+Pennsylvania,state,Hispanic,Male Owned,Non-Veteran,2409,110162535,Top 25% of geographies,51-75% of geographies,78,68,11.0
+Tennessee,state,White,Female Owned,Non-Veteran,7384,234674558,51-75% of geographies,51-75% of geographies,72,52,16.5
+Vermont,state,White,Female Owned,Veteran,28,779569,Bottom 25% of geographies,Bottom 25% of geographies,2,0,1.3
+New Jersey,state,Hispanic,Female Owned,Non-Veteran,2878,106870731,Top 25% of geographies,Top 25% of geographies,90,90,13.3
+Maine,state,Hispanic,Male Owned,Non-Veteran,77,4024788,Bottom 25% of geographies,Bottom 25% of geographies,2,6,1.4
+North Carolina,state,Hispanic,Male Owned,Veteran,104,5409756,51-75% of geographies,51-75% of geographies,67,57,21.2
+Virginia,state,Asian,Female Owned,Veteran,65,2532350,Top 25% of geographies,Top 25% of geographies,89,89,19.0
+Florida,state,Asian,Female Owned,Veteran,79,4103954,Top 25% of geographies,Top 25% of geographies,91,94,15.7
+Wyoming,state,White,Male Owned,Non-Veteran,2067,151841831,Bottom 25% of geographies,Bottom 25% of geographies,8,2,0.9
+District of Columbia,state,Asian,Female Owned,Non-Veteran,274,14315151,26-50% of geographies,26-50% of geographies,32,42,44.7
+Texas,state,Asian,Female Owned,Non-Veteran,6583,252228946,Top 25% of geographies,Top 25% of geographies,96,96,12.1
+Delaware,state,Asian,Male Owned,Veteran,4,162077,Bottom 25% of geographies,Bottom 25% of geographies,6,22,22.0
+Ohio,state,Asian,Male Owned,Veteran,50,3609692,51-75% of geographies,51-75% of geographies,65,76,12.3
+Massachusetts,state,White,Male Owned,Veteran,1492,174491744,51-75% of geographies,Top 25% of geographies,62,84,7.3
+District of Columbia,state,White,Male Owned,Non-Veteran,982,132447554,Bottom 25% of geographies,Bottom 25% of geographies,0,0,44.7
+Utah,state,White,Female Owned,Non-Veteran,2040,120575759,Bottom 25% of geographies,26-50% of geographies,20,32,1.2
+Mississippi,state,White,Female Owned,Veteran,120,3386646,26-50% of geographies,Bottom 25% of geographies,30,22,37.5
+North Carolina,state,Black,Male Owned,Veteran,815,17209732,Top 25% of geographies,Top 25% of geographies,90,80,21.2
+Tennessee,state,Black,Male Owned,Veteran,534,17481488,51-75% of geographies,Top 25% of geographies,73,82,16.5
+Arizona,state,Asian,Female Owned,Veteran,25,421071,Top 25% of geographies,51-75% of geographies,77,64,4.5
+Georgia,state,Asian,Male Owned,Non-Veteran,5794,282171068,Top 25% of geographies,Top 25% of geographies,90,86,31.5
+Georgia,state,White,Female Owned,Non-Veteran,8898,396031068,Top 25% of geographies,51-75% of geographies,78,74,31.5
+Alabama,state,Asian,Female Owned,Non-Veteran,436,15486935,26-50% of geographies,26-50% of geographies,42,44,26.5
+Montana,state,White,Male Owned,Non-Veteran,5236,334232310,Bottom 25% of geographies,Bottom 25% of geographies,24,22,0.6
+Virginia,state,Hispanic,Female Owned,Non-Veteran,963,56001088,51-75% of geographies,Top 25% of geographies,64,80,19.0
+Ohio,state,White,Female Owned,Non-Veteran,15889,1017089312,Top 25% of geographies,Top 25% of geographies,92,96,12.3
+Tennessee,state,Hispanic,Female Owned,Veteran,25,977654,51-75% of geographies,51-75% of geographies,60,60,16.5
+Montana,state,White,Male Owned,Veteran,537,27826065,Bottom 25% of geographies,Bottom 25% of geographies,24,22,0.6
+Connecticut,state,Hispanic,Female Owned,Non-Veteran,996,32736528,51-75% of geographies,51-75% of geographies,66,64,10.8
+California,state,Hispanic,Female Owned,Non-Veteran,17758,807182341,Top 25% of geographies,Top 25% of geographies,98,100,5.7
+Texas,state,Asian,Male Owned,Veteran,249,12126826,Top 25% of geographies,Top 25% of geographies,96,90,12.1
+Arkansas,state,Hispanic,Male Owned,Veteran,23,1014312,Bottom 25% of geographies,Bottom 25% of geographies,24,22,15.2
+New Mexico,state,Asian,Female Owned,Veteran,10,197365,26-50% of geographies,26-50% of geographies,45,43,2.1
+Ohio,state,White,Male Owned,Non-Veteran,40757,4280582743,Top 25% of geographies,Top 25% of geographies,96,96,12.3
+Indiana,state,Hispanic,Female Owned,Non-Veteran,835,26055561,51-75% of geographies,51-75% of geographies,60,56,9.4
+California,state,White,Female Owned,Non-Veteran,32982,2249936629,Top 25% of geographies,Top 25% of geographies,100,100,5.7
+New Jersey,state,Hispanic,Female Owned,Veteran,34,1146346,51-75% of geographies,51-75% of geographies,66,64,13.3
+Wyoming,state,Asian,Female Owned,Veteran,2,44605,Bottom 25% of geographies,Bottom 25% of geographies,6,6,0.9
+Idaho,state,Black,Female Owned,Non-Veteran,31,581012,Bottom 25% of geographies,Bottom 25% of geographies,6,2,0.7
+Idaho,state,Black,Male Owned,Non-Veteran,79,1711382,Bottom 25% of geographies,Bottom 25% of geographies,10,6,0.7
+Utah,state,Hispanic,Male Owned,Non-Veteran,869,58279361,26-50% of geographies,51-75% of geographies,50,56,1.2
+Alabama,state,White,Female Owned,Non-Veteran,4258,177605485,26-50% of geographies,26-50% of geographies,40,44,26.5
+New Jersey,state,White,Female Owned,Veteran,173,15598592,26-50% of geographies,51-75% of geographies,46,74,13.3
+South Dakota,state,Black,Male Owned,Veteran,1,4000,Bottom 25% of geographies,Bottom 25% of geographies,0,0,2.2
+Colorado,state,Asian,Male Owned,Veteran,54,3128784,51-75% of geographies,51-75% of geographies,67,67,4.1
+Vermont,state,Black,Male Owned,Non-Veteran,47,1844875,Bottom 25% of geographies,Bottom 25% of geographies,2,8,1.3
+Alaska,state,Black,Male Owned,Non-Veteran,72,2827107,Bottom 25% of geographies,Bottom 25% of geographies,6,12,3.2
+Maryland,state,Black,Male Owned,Non-Veteran,8838,229693916,Top 25% of geographies,Top 25% of geographies,82,82,29.8
+Florida,state,Hispanic,Female Owned,Non-Veteran,23378,659160616,Top 25% of geographies,Top 25% of geographies,100,98,15.7
+Iowa,state,Hispanic,Male Owned,Non-Veteran,494,26344768,26-50% of geographies,26-50% of geographies,30,30,3.7
+Louisiana,state,Hispanic,Male Owned,Non-Veteran,998,61463859,51-75% of geographies,51-75% of geographies,56,58,31.9
+Minnesota,state,White,Female Owned,Non-Veteran,10000,521622264,Top 25% of geographies,Top 25% of geographies,86,82,6.6
+District of Columbia,state,Black,Female Owned,Non-Veteran,1492,39562218,26-50% of geographies,26-50% of geographies,48,50,44.7
+New Jersey,state,Black,Female Owned,Non-Veteran,4240,84286152,51-75% of geographies,51-75% of geographies,60,60,13.3
+Hawaii,state,Asian,Female Owned,Non-Veteran,2407,119021596,Top 25% of geographies,Top 25% of geographies,84,90,1.9
+Idaho,state,Hispanic,Female Owned,Veteran,10,125590,26-50% of geographies,Bottom 25% of geographies,28,14,0.7
+Hawaii,state,Hispanic,Female Owned,Veteran,13,721077,26-50% of geographies,26-50% of geographies,34,46,1.9
+Massachusetts,state,White,Female Owned,Veteran,248,15624472,51-75% of geographies,51-75% of geographies,58,76,7.3
+Alaska,state,Black,Female Owned,Veteran,3,227765,Bottom 25% of geographies,Bottom 25% of geographies,11,19,3.2
+Colorado,state,Black,Male Owned,Non-Veteran,1351,41587591,26-50% of geographies,26-50% of geographies,42,44,4.1
+Ohio,state,Hispanic,Male Owned,Non-Veteran,1718,115104097,51-75% of geographies,51-75% of geographies,70,70,12.3
+Connecticut,state,Asian,Female Owned,Non-Veteran,889,31461468,51-75% of geographies,51-75% of geographies,60,58,10.8
+Rhode Island,state,Black,Male Owned,Veteran,17,388265,Bottom 25% of geographies,Bottom 25% of geographies,18,16,6.4
+Missouri,state,Black,Male Owned,Veteran,264,6975546,51-75% of geographies,51-75% of geographies,59,51,11.3
+Alabama,state,Asian,Male Owned,Veteran,13,211728,26-50% of geographies,26-50% of geographies,41,29,26.5
+California,state,White,Male Owned,Non-Veteran,73256,8835301358,Top 25% of geographies,Top 25% of geographies,100,100,5.7
+Ohio,state,Black,Female Owned,Non-Veteran,17172,316818843,Top 25% of geographies,Top 25% of geographies,88,88,12.3
+Montana,state,Asian,Male Owned,Non-Veteran,93,4982540,Bottom 25% of geographies,Bottom 25% of geographies,8,8,0.6
+Florida,state,Hispanic,Male Owned,Veteran,1254,73329052,Top 25% of geographies,Top 25% of geographies,96,96,15.7
+Alabama,state,White,Male Owned,Non-Veteran,9732,690089708,26-50% of geographies,26-50% of geographies,44,40,26.5
+Maryland,state,Black,Female Owned,Veteran,271,7065158,Top 25% of geographies,Top 25% of geographies,77,83,29.8
+North Dakota,state,Black,Female Owned,Non-Veteran,95,1628699,Bottom 25% of geographies,Bottom 25% of geographies,22,16,3.1
+Oregon,state,White,Female Owned,Non-Veteran,5895,304799617,51-75% of geographies,51-75% of geographies,56,64,1.9
+New York,state,Asian,Female Owned,Non-Veteran,6811,311908194,Top 25% of geographies,Top 25% of geographies,98,98,15.2
+Maryland,state,White,Female Owned,Veteran,171,11906768,26-50% of geographies,51-75% of geographies,44,60,29.8
+Missouri,state,White,Female Owned,Veteran,393,11985275,Top 25% of geographies,51-75% of geographies,90,64,11.3
+South Dakota,state,Asian,Male Owned,Veteran,3,37955,Bottom 25% of geographies,Bottom 25% of geographies,0,2,2.2
+Mississippi,state,White,Male Owned,Non-Veteran,10381,622679041,26-50% of geographies,26-50% of geographies,46,36,37.5
+New Jersey,state,White,Male Owned,Non-Veteran,17759,1869744259,51-75% of geographies,Top 25% of geographies,72,80,13.3
+Michigan,state,Asian,Female Owned,Non-Veteran,1048,56124346,51-75% of geographies,51-75% of geographies,70,74,13.6
+Louisiana,state,Hispanic,Female Owned,Veteran,36,1436442,51-75% of geographies,51-75% of geographies,68,72,31.9
+North Dakota,state,White,Male Owned,Veteran,676,22010473,26-50% of geographies,Bottom 25% of geographies,28,14,3.1
+New Hampshire,state,White,Male Owned,Veteran,403,36506460,Bottom 25% of geographies,26-50% of geographies,18,32,1.6
+Pennsylvania,state,Asian,Female Owned,Veteran,14,271238,51-75% of geographies,51-75% of geographies,55,53,11.0
+Virginia,state,Black,Female Owned,Veteran,355,16152692,Top 25% of geographies,Top 25% of geographies,85,94,19.0
+Tennessee,state,Hispanic,Female Owned,Non-Veteran,623,18964986,51-75% of geographies,26-50% of geographies,52,48,16.5
+Idaho,state,Hispanic,Male Owned,Non-Veteran,420,28315741,26-50% of geographies,26-50% of geographies,26,34,0.7
+South Carolina,state,Black,Male Owned,Veteran,694,13130466,Top 25% of geographies,51-75% of geographies,86,73,26.2
+West Virginia,state,White,Male Owned,Veteran,363,24089258,Bottom 25% of geographies,Bottom 25% of geographies,16,16,3.4
+Hawaii,state,Hispanic,Female Owned,Non-Veteran,240,10234235,Bottom 25% of geographies,26-50% of geographies,24,32,1.9
+Missouri,state,Asian,Female Owned,Non-Veteran,533,23869924,26-50% of geographies,51-75% of geographies,48,52,11.3
+South Carolina,state,Black,Female Owned,Veteran,336,5253761,Top 25% of geographies,Top 25% of geographies,83,79,26.2
+Michigan,state,Asian,Female Owned,Veteran,17,390254,51-75% of geographies,51-75% of geographies,64,62,13.6
+Colorado,state,Hispanic,Female Owned,Non-Veteran,1871,72428070,Top 25% of geographies,Top 25% of geographies,82,86,4.1
+Alaska,state,White,Female Owned,Non-Veteran,777,55789526,Bottom 25% of geographies,Bottom 25% of geographies,4,10,3.2
+Utah,state,Hispanic,Female Owned,Veteran,13,644528,26-50% of geographies,26-50% of geographies,34,44,1.2
+Missouri,state,Hispanic,Female Owned,Veteran,13,813055,26-50% of geographies,51-75% of geographies,34,52,11.3
+Oregon,state,Asian,Male Owned,Veteran,57,3681597,51-75% of geographies,Top 25% of geographies,76,78,1.9
+California,state,Asian,Male Owned,Veteran,1073,72685128,Top 25% of geographies,Top 25% of geographies,100,100,5.7
+Oregon,state,Black,Female Owned,Veteran,8,305637,Bottom 25% of geographies,26-50% of geographies,21,26,1.9
+Iowa,state,Asian,Female Owned,Veteran,9,186320,26-50% of geographies,26-50% of geographies,40,38,3.7
+Kentucky,state,Black,Male Owned,Non-Veteran,1299,39668033,26-50% of geographies,26-50% of geographies,40,42,8.0
+Indiana,state,White,Female Owned,Veteran,243,10304832,51-75% of geographies,51-75% of geographies,56,54,9.4
+Maine,state,Asian,Male Owned,Veteran,6,229546,Bottom 25% of geographies,26-50% of geographies,16,31,1.4
+Connecticut,state,Black,Female Owned,Veteran,20,705129,26-50% of geographies,26-50% of geographies,32,40,10.8
+Oklahoma,state,Black,Male Owned,Non-Veteran,1269,30541466,26-50% of geographies,26-50% of geographies,38,38,7.2
+Montana,state,Asian,Female Owned,Non-Veteran,44,2144459,Bottom 25% of geographies,Bottom 25% of geographies,6,8,0.6
+Indiana,state,White,Male Owned,Veteran,1464,131991323,51-75% of geographies,51-75% of geographies,58,76,9.4
+Nebraska,state,Asian,Female Owned,Veteran,10,125442,26-50% of geographies,26-50% of geographies,45,28,4.8
+Nevada,state,Hispanic,Male Owned,Non-Veteran,2487,137335135,Top 25% of geographies,51-75% of geographies,80,76,9.3
+Kentucky,state,Hispanic,Male Owned,Veteran,46,2062709,26-50% of geographies,26-50% of geographies,31,39,8.0
+Massachusetts,state,Black,Female Owned,Veteran,25,489630,26-50% of geographies,26-50% of geographies,36,32,7.3
+Arizona,state,Black,Female Owned,Non-Veteran,3554,66423448,51-75% of geographies,51-75% of geographies,56,54,4.5
+Indiana,state,Black,Female Owned,Non-Veteran,7843,150936333,51-75% of geographies,51-75% of geographies,72,72,9.4
+Tennessee,state,Black,Female Owned,Non-Veteran,10655,188331461,Top 25% of geographies,Top 25% of geographies,80,80,16.5
+Texas,state,Black,Female Owned,Non-Veteran,37794,736057576,Top 25% of geographies,Top 25% of geographies,96,96,12.1
+Indiana,state,Asian,Male Owned,Non-Veteran,1446,64345522,51-75% of geographies,51-75% of geographies,58,54,9.4
+New Hampshire,state,White,Female Owned,Veteran,105,12655907,Bottom 25% of geographies,51-75% of geographies,24,66,1.6
+Mississippi,state,White,Male Owned,Veteran,727,37069656,26-50% of geographies,26-50% of geographies,32,34,37.5
+Illinois,state,White,Male Owned,Veteran,2548,193582913,Top 25% of geographies,Top 25% of geographies,92,88,14.1
+Ohio,state,White,Male Owned,Veteran,3423,287938499,Top 25% of geographies,Top 25% of geographies,94,94,12.3
+Oregon,state,Hispanic,Male Owned,Veteran,58,2850323,26-50% of geographies,26-50% of geographies,49,45,1.9
+Mississippi,state,Hispanic,Male Owned,Non-Veteran,358,19458378,Bottom 25% of geographies,Bottom 25% of geographies,24,20,37.5
+Nebraska,state,Asian,Male Owned,Non-Veteran,291,13171192,Bottom 25% of geographies,Bottom 25% of geographies,22,14,4.8
+Minnesota,state,White,Female Owned,Veteran,336,13331286,51-75% of geographies,51-75% of geographies,76,70,6.6
+South Dakota,state,Black,Female Owned,Non-Veteran,35,474545,Bottom 25% of geographies,Bottom 25% of geographies,10,0,2.2
+Hawaii,state,Black,Female Owned,Non-Veteran,69,1786853,Bottom 25% of geographies,Bottom 25% of geographies,18,20,1.9
+Utah,state,Hispanic,Male Owned,Veteran,49,1898941,26-50% of geographies,26-50% of geographies,39,35,1.2
+Minnesota,state,Black,Female Owned,Non-Veteran,2855,67155966,51-75% of geographies,51-75% of geographies,52,56,6.6
+Vermont,state,Hispanic,Male Owned,Non-Veteran,31,992340,Bottom 25% of geographies,Bottom 25% of geographies,0,0,1.3
+Wisconsin,state,Asian,Male Owned,Non-Veteran,1231,57826955,51-75% of geographies,26-50% of geographies,52,50,6.3
+District of Columbia,state,Black,Male Owned,Veteran,107,11392491,26-50% of geographies,51-75% of geographies,47,67,44.7
+South Carolina,state,White,Male Owned,Veteran,890,63733379,26-50% of geographies,26-50% of geographies,38,40,26.2
+New York,state,Asian,Female Owned,Veteran,44,1790142,Top 25% of geographies,Top 25% of geographies,87,87,15.2
+Montana,state,Hispanic,Male Owned,Non-Veteran,127,3702387,Bottom 25% of geographies,Bottom 25% of geographies,10,2,0.6
+Delaware,state,White,Female Owned,Veteran,37,4087920,Bottom 25% of geographies,26-50% of geographies,4,28,22.0
+Iowa,state,Hispanic,Male Owned,Veteran,17,281314,Bottom 25% of geographies,Bottom 25% of geographies,16,4,3.7
+New Jersey,state,Black,Female Owned,Veteran,73,1463507,51-75% of geographies,51-75% of geographies,53,53,13.3
+Nebraska,state,Black,Male Owned,Non-Veteran,381,11821296,26-50% of geographies,26-50% of geographies,28,26,4.8
+Idaho,state,Asian,Female Owned,Non-Veteran,88,3855654,Bottom 25% of geographies,Bottom 25% of geographies,16,16,0.7
+West Virginia,state,White,Male Owned,Non-Veteran,3808,301239074,Bottom 25% of geographies,Bottom 25% of geographies,16,16,3.4
+North Dakota,state,Hispanic,Female Owned,Non-Veteran,49,2346767,Bottom 25% of geographies,Bottom 25% of geographies,6,8,3.1
+Massachusetts,state,White,Female Owned,Non-Veteran,8939,577847627,Top 25% of geographies,Top 25% of geographies,80,86,7.3
+Wisconsin,state,Hispanic,Female Owned,Veteran,20,461590,26-50% of geographies,26-50% of geographies,48,32,6.3
+Texas,state,White,Female Owned,Veteran,874,41859930,Top 25% of geographies,Top 25% of geographies,98,98,12.1
+South Dakota,state,White,Male Owned,Veteran,1135,34379519,26-50% of geographies,26-50% of geographies,50,30,2.2
+North Dakota,state,Hispanic,Male Owned,Veteran,9,301023,Bottom 25% of geographies,Bottom 25% of geographies,2,6,3.1
+Maryland,state,White,Female Owned,Non-Veteran,3769,217215092,26-50% of geographies,26-50% of geographies,38,50,29.8
+Alabama,state,Hispanic,Female Owned,Veteran,15,462881,26-50% of geographies,26-50% of geographies,42,34,26.5
+Arkansas,state,Asian,Male Owned,Veteran,11,200692,26-50% of geographies,26-50% of geographies,35,27,15.2
+Hawaii,state,White,Male Owned,Veteran,208,15920369,Bottom 25% of geographies,Bottom 25% of geographies,4,8,1.9
+Oklahoma,state,Asian,Female Owned,Veteran,9,74220,26-50% of geographies,Bottom 25% of geographies,40,13,7.2
+Washington,state,White,Male Owned,Non-Veteran,12059,1386034311,51-75% of geographies,51-75% of geographies,52,74,3.9
+Wyoming,state,Black,Female Owned,Non-Veteran,34,3126303,Bottom 25% of geographies,Bottom 25% of geographies,8,24,0.9
+Delaware,state,Asian,Female Owned,Non-Veteran,141,5971117,Bottom 25% of geographies,Bottom 25% of geographies,18,24,22.0
+Arkansas,state,Black,Male Owned,Veteran,214,5672391,51-75% of geographies,26-50% of geographies,55,49,15.2
+Connecticut,state,Hispanic,Male Owned,Veteran,58,5327316,26-50% of geographies,51-75% of geographies,49,55,10.8
+West Virginia,state,Black,Female Owned,Veteran,5,48619,Bottom 25% of geographies,Bottom 25% of geographies,17,9,3.4
+Indiana,state,Black,Female Owned,Veteran,108,2155348,51-75% of geographies,51-75% of geographies,62,60,9.4
+Oregon,state,Black,Female Owned,Non-Veteran,454,9828237,26-50% of geographies,26-50% of geographies,30,30,1.9
+Tennessee,state,White,Female Owned,Veteran,339,11966470,Top 25% of geographies,51-75% of geographies,78,62,16.5
+Minnesota,state,Black,Female Owned,Veteran,40,861867,26-50% of geographies,26-50% of geographies,45,45,6.6
+South Dakota,state,Asian,Female Owned,Veteran,3,36234,Bottom 25% of geographies,Bottom 25% of geographies,13,4,2.2
+Wyoming,state,Hispanic,Female Owned,Non-Veteran,112,3189821,Bottom 25% of geographies,Bottom 25% of geographies,14,12,0.9
+Mississippi,state,Hispanic,Female Owned,Non-Veteran,271,6115837,26-50% of geographies,Bottom 25% of geographies,30,20,37.5
+New Hampshire,state,Asian,Male Owned,Non-Veteran,269,18624178,Bottom 25% of geographies,Bottom 25% of geographies,20,24,1.6
+Illinois,state,Hispanic,Female Owned,Veteran,141,3476586,Top 25% of geographies,Top 25% of geographies,94,86,14.1
+Hawaii,state,White,Female Owned,Veteran,45,4141187,Bottom 25% of geographies,26-50% of geographies,6,30,1.9
+South Carolina,state,Asian,Male Owned,Veteran,27,1400681,51-75% of geographies,51-75% of geographies,57,55,26.2
+California,state,Black,Male Owned,Non-Veteran,22515,632141563,Top 25% of geographies,Top 25% of geographies,92,92,5.7
+New Hampshire,state,Hispanic,Female Owned,Non-Veteran,74,3218835,Bottom 25% of geographies,Bottom 25% of geographies,10,14,1.6
+Hawaii,state,White,Female Owned,Non-Veteran,959,38556266,Bottom 25% of geographies,Bottom 25% of geographies,6,2,1.9
+South Carolina,state,White,Female Owned,Non-Veteran,3566,137354620,26-50% of geographies,26-50% of geographies,36,34,26.2
+Nevada,state,White,Male Owned,Veteran,741,67168933,26-50% of geographies,26-50% of geographies,34,48,9.3
+Mississippi,state,Hispanic,Male Owned,Veteran,20,317217,Bottom 25% of geographies,Bottom 25% of geographies,22,8,37.5
+District of Columbia,state,Black,Female Owned,Veteran,45,1084029,26-50% of geographies,26-50% of geographies,49,49,44.7
+Illinois,state,White,Male Owned,Non-Veteran,34747,2575025218,Top 25% of geographies,Top 25% of geographies,92,90,14.1
+Nevada,state,White,Female Owned,Veteran,137,5212800,26-50% of geographies,26-50% of geographies,34,40,9.3
+Connecticut,state,Black,Female Owned,Non-Veteran,1080,19429923,26-50% of geographies,26-50% of geographies,40,38,10.8
+Wisconsin,state,Black,Female Owned,Non-Veteran,4026,75113160,51-75% of geographies,51-75% of geographies,58,58,6.3
