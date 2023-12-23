@@ -22,7 +22,7 @@ To run my analysis, I collected my data from the [Black Wealth Data Center websi
 
 The original dataset includes 1,206,970 observations as the geographical grouping of the data is broken down to state, county, and zip code level, resulting in the file taking up too much memory for me to push it to GitHub. To fix this, I have filtered down to only state-level observations. I also excluded those observations which were unanswered in certain categories. In the end, I overwrote the original file to save space.
 
-This cleaning was done in `01_initial_cleaning_code_working.ipynb` which cannot be run again, as it overwrote the original file to save space.
+This cleaning was done in `01_initial_cleaning_code_working.ipynb` which cannot be run again, as it overwrote the original file to save space. This file is located in the `work files` folder
 
 ## Descriptive Statistics
 
